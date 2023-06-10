@@ -38,4 +38,4 @@ jobs:
         git checkout main
         git add calendar.ics # Replace with the path to your file
         git commit -m 'Update Calendar'
-        git push
+        git push https://${{secrets.GITHUB_TOKEN}}@github.com/${{github.repository}}.git
