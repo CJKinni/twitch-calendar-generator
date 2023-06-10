@@ -26,6 +26,7 @@ async def generate_calendar():
     async for user in users:
         print(user.display_name)
         schedule = await twitch.get_channel_stream_schedule(user.id)
+        print(schedule)
         segment_count = 0
         async for segment in schedule:
             e = Event()
