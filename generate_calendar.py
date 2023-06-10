@@ -28,6 +28,10 @@ async def generate_calendar():
         schedule = await twitch.get_channel_stream_schedule(user.id)
         print(vars(schedule))
         segment_count = 0
+        
+        if schedule.segments is None:
+            continue
+        
         async for segment in schedule:
             e = Event()
             e.name = f"{user.display_name}: {segment.title}"
