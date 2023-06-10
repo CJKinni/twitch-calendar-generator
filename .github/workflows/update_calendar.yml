@@ -36,6 +36,6 @@ jobs:
         git config --global user.name 'Automated Push' # Replace with your name
         git config --global user.email 'Automatic@user.com' # Replace with your email
         git checkout main
-        git add twitch-calendar.ics # Replace with the path to your file
+        git add calendar.ics # Replace with the path to your file
         git commit -m 'Update Calendar'
         git push
