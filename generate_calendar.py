@@ -30,6 +30,7 @@ async def generate_calendar():
         segment_count = 0
         
         if schedule.segments is None:
+            print("No segments found.")
             continue
         
         async for segment in schedule:
