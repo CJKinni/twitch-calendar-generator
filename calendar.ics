@@ -2,11 +2,19 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:Twitch Followed Streams
 BEGIN:VEVENT
+DESCRIPTION:Hey I'm Pat. I stare at videogame. Videogame good. Also cat Elmo\, dog Caboose and lady Peach Saliva here sometime. Enjoy!
+DTEND:20250603T040000Z
+DTSTART:20250602T230000Z
+SUMMARY:PatStaresAt: Pat Stares At Clair Obscur - Expedition 33! WE CONTINUE
+UID:757727c8-3d68-4f92-9582-6cd6d7feea3d@7577.org
+URL:https://twitch.tv/PatStaresAt
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Formerly the Super Best Friendcast\, Castle Super Beast is a weekly gaming podcast featuring Woolie and Pat.
-DTEND:20260317T230000Z
-DTSTART:20260317T190000Z
+DTEND:20270127T000000Z
+DTSTART:20270126T200000Z
 SUMMARY:CastleSuperBeast: Castle Super Beast Podcast
-UID:3385ada3-bb7d-4c51-af50-31c9fe939f3a@3385.org
+UID:49061060-9394-46fc-925b-eb89dc68be42@4906.org
 URL:https://twitch.tv/CastleSuperBeast
 END:VEVENT
 BEGIN:VEVENT
@@ -14,991 +22,7 @@ DESCRIPTION:Formerly the Super Best Friendcast\, Castle Super Beast is a weekly 
 DTEND:20251231T000000Z
 DTSTART:20251230T200000Z
 SUMMARY:CastleSuperBeast: Castle Super Beast Podcast
-UID:d4d4a4b9-40d2-4d18-baf7-ceab83302b95@d4d4.org
-URL:https://twitch.tv/CastleSuperBeast
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Formerly the Super Best Friendcast\, Castle Super Beast is a weekly gaming podcast featuring Woolie and Pat.
-DTEND:20251105T000000Z
-DTSTART:20251104T200000Z
-SUMMARY:CastleSuperBeast: Castle Super Beast Podcast
-UID:da377720-608a-4c45-9386-0f687f2d8d78@da37.org
-URL:https://twitch.tv/CastleSuperBeast
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Formerly the Super Best Friendcast\, Castle Super Beast is a weekly gaming podcast featuring Woolie and Pat.
-DTEND:20270224T000000Z
-DTSTART:20270223T200000Z
-SUMMARY:CastleSuperBeast: Castle Super Beast Podcast
-UID:4ccee7c3-ba3d-453c-b983-dd61fc3e0484@4cce.org
-URL:https://twitch.tv/CastleSuperBeast
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Hey I'm Pat. I stare at videogame. Videogame good. Also cat Elmo\, dog Caboose and lady Peach Saliva here sometime. Enjoy!
-DTEND:20250603T040000Z
-DTSTART:20250602T230000Z
-SUMMARY:PatStaresAt: Pat Stares At Clair Obscur - Expedition 33! WE CONTINUE
-UID:fe9d978b-9171-4000-b021-79387c340502@fe9d.org
-URL:https://twitch.tv/PatStaresAt
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Formerly the Super Best Friendcast\, Castle Super Beast is a weekly gaming podcast featuring Woolie and Pat.
-DTEND:20260714T230000Z
-DTSTART:20260714T190000Z
-SUMMARY:CastleSuperBeast: Castle Super Beast Podcast
-UID:07fccc61-1ddb-4b65-baed-56f2e7b1a994@07fc.org
-URL:https://twitch.tv/CastleSuperBeast
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Formerly the Super Best Friendcast\, Castle Super Beast is a weekly gaming podcast featuring Woolie and Pat.
-DTEND:20260407T230000Z
-DTSTART:20260407T190000Z
-SUMMARY:CastleSuperBeast: Castle Super Beast Podcast
-UID:3c598429-c97e-417a-b3ce-75c0d5456e09@3c59.org
-URL:https://twitch.tv/CastleSuperBeast
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Formerly the Super Best Friendcast\, Castle Super Beast is a weekly gaming podcast featuring Woolie and Pat.
-DTEND:20260616T230000Z
-DTSTART:20260616T190000Z
-SUMMARY:CastleSuperBeast: Castle Super Beast Podcast
-UID:52bd5fad-9f15-4351-8d0e-aded53db34de@52bd.org
-URL:https://twitch.tv/CastleSuperBeast
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Formerly the Super Best Friendcast\, Castle Super Beast is a weekly gaming podcast featuring Woolie and Pat.
-DTEND:20251203T000000Z
-DTSTART:20251202T200000Z
-SUMMARY:CastleSuperBeast: Castle Super Beast Podcast
-UID:ee20759d-d011-4776-a19a-bb6853fe90b5@ee20.org
-URL:https://twitch.tv/CastleSuperBeast
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Formerly the Super Best Friendcast\, Castle Super Beast is a weekly gaming podcast featuring Woolie and Pat.
-DTEND:20261230T000000Z
-DTSTART:20261229T200000Z
-SUMMARY:CastleSuperBeast: Castle Super Beast Podcast
-UID:e789cb08-2f77-4c6b-b3da-4fc94f7b85fc@e789.org
-URL:https://twitch.tv/CastleSuperBeast
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Formerly the Super Best Friendcast\, Castle Super Beast is a weekly gaming podcast featuring Woolie and Pat.
-DTEND:20270303T000000Z
-DTSTART:20270302T200000Z
-SUMMARY:CastleSuperBeast: Castle Super Beast Podcast
-UID:808fd2c0-b4b2-41cc-9845-7b474adb7959@808f.org
-URL:https://twitch.tv/CastleSuperBeast
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Formerly the Super Best Friendcast\, Castle Super Beast is a weekly gaming podcast featuring Woolie and Pat.
-DTEND:20250603T230000Z
-DTSTART:20250603T190000Z
-SUMMARY:CastleSuperBeast: Castle Super Beast Podcast
-UID:5ad5bde8-640e-4770-9847-8c8e15fe15d8@5ad5.org
-URL:https://twitch.tv/CastleSuperBeast
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Formerly the Super Best Friendcast\, Castle Super Beast is a weekly gaming podcast featuring Woolie and Pat.
-DTEND:20260630T230000Z
-DTSTART:20260630T190000Z
-SUMMARY:CastleSuperBeast: Castle Super Beast Podcast
-UID:87579432-1f17-4b98-8ed0-7f28931af8b5@8757.org
-URL:https://twitch.tv/CastleSuperBeast
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Formerly the Super Best Friendcast\, Castle Super Beast is a weekly gaming podcast featuring Woolie and Pat.
-DTEND:20260526T230000Z
-DTSTART:20260526T190000Z
-SUMMARY:CastleSuperBeast: Castle Super Beast Podcast
-UID:787ddb75-55b4-4747-90c4-0facbc85bc32@787d.org
-URL:https://twitch.tv/CastleSuperBeast
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Formerly the Super Best Friendcast\, Castle Super Beast is a weekly gaming podcast featuring Woolie and Pat.
-DTEND:20260922T230000Z
-DTSTART:20260922T190000Z
-SUMMARY:CastleSuperBeast: Castle Super Beast Podcast
-UID:f68fde44-1634-4ba6-a77f-1cfc1ca48b1d@f68f.org
-URL:https://twitch.tv/CastleSuperBeast
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Formerly the Super Best Friendcast\, Castle Super Beast is a weekly gaming podcast featuring Woolie and Pat.
-DTEND:20260908T230000Z
-DTSTART:20260908T190000Z
-SUMMARY:CastleSuperBeast: Castle Super Beast Podcast
-UID:686705eb-5cb4-4354-87a1-efa9eea9627a@6867.org
-URL:https://twitch.tv/CastleSuperBeast
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Formerly the Super Best Friendcast\, Castle Super Beast is a weekly gaming podcast featuring Woolie and Pat.
-DTEND:20261216T000000Z
-DTSTART:20261215T200000Z
-SUMMARY:CastleSuperBeast: Castle Super Beast Podcast
-UID:7fee1810-4ee2-4a25-bbbe-368164c59f38@7fee.org
-URL:https://twitch.tv/CastleSuperBeast
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Formerly the Super Best Friendcast\, Castle Super Beast is a weekly gaming podcast featuring Woolie and Pat.
-DTEND:20250610T230000Z
-DTSTART:20250610T190000Z
-SUMMARY:CastleSuperBeast: Castle Super Beast Podcast
-UID:b5bfe4ef-e3bd-4ab5-bde0-20ef5d56aa50@b5bf.org
-URL:https://twitch.tv/CastleSuperBeast
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Hey I'm Pat. I stare at videogame. Videogame good. Also cat Elmo\, dog Caboose and lady Peach Saliva here sometime. Enjoy!
-DTEND:20250527T040000Z
-DTSTART:20250526T230000Z
-SUMMARY:PatStaresAt: Pat Stares At Clair Obscur - Expedition 33! WE CONTINUE + Pat Vs SPAMTON Deltarune
-UID:8fbb4a81-99d9-4518-9525-195030d6bd16@8fbb.org
-URL:https://twitch.tv/PatStaresAt
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Formerly the Super Best Friendcast\, Castle Super Beast is a weekly gaming podcast featuring Woolie and Pat.
-DTEND:20260310T230000Z
-DTSTART:20260310T190000Z
-SUMMARY:CastleSuperBeast: Castle Super Beast Podcast
-UID:f83a9a8a-4f64-436b-9636-63e742b295d2@f83a.org
-URL:https://twitch.tv/CastleSuperBeast
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Formerly the Super Best Friendcast\, Castle Super Beast is a weekly gaming podcast featuring Woolie and Pat.
-DTEND:20250902T230000Z
-DTSTART:20250902T190000Z
-SUMMARY:CastleSuperBeast: Castle Super Beast Podcast
-UID:26955dcd-cc57-4895-8f13-60adda6f6f98@2695.org
-URL:https://twitch.tv/CastleSuperBeast
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Formerly the Super Best Friendcast\, Castle Super Beast is a weekly gaming podcast featuring Woolie and Pat.
-DTEND:20260707T230000Z
-DTSTART:20260707T190000Z
-SUMMARY:CastleSuperBeast: Castle Super Beast Podcast
-UID:e2719c17-3e74-4580-92ca-f4b506284a79@e271.org
-URL:https://twitch.tv/CastleSuperBeast
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Formerly the Super Best Friendcast\, Castle Super Beast is a weekly gaming podcast featuring Woolie and Pat.
-DTEND:20251021T230000Z
-DTSTART:20251021T190000Z
-SUMMARY:CastleSuperBeast: Castle Super Beast Podcast
-UID:3ae0b530-8647-484b-9d1a-ec7bf1766dc4@3ae0.org
-URL:https://twitch.tv/CastleSuperBeast
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Formerly the Super Best Friendcast\, Castle Super Beast is a weekly gaming podcast featuring Woolie and Pat.
-DTEND:20260602T230000Z
-DTSTART:20260602T190000Z
-SUMMARY:CastleSuperBeast: Castle Super Beast Podcast
-UID:2d7da483-ae3d-40a5-a6a8-3d84502d2362@2d7d.org
-URL:https://twitch.tv/CastleSuperBeast
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Formerly the Super Best Friendcast\, Castle Super Beast is a weekly gaming podcast featuring Woolie and Pat.
-DTEND:20260929T230000Z
-DTSTART:20260929T190000Z
-SUMMARY:CastleSuperBeast: Castle Super Beast Podcast
-UID:dfba2647-8886-4587-9e21-fcbca957c257@dfba.org
-URL:https://twitch.tv/CastleSuperBeast
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Formerly the Super Best Friendcast\, Castle Super Beast is a weekly gaming podcast featuring Woolie and Pat.
-DTEND:20251007T230000Z
-DTSTART:20251007T190000Z
-SUMMARY:CastleSuperBeast: Castle Super Beast Podcast
-UID:37c3ca8d-b93b-4cbc-a919-ff21271eb472@37c3.org
-URL:https://twitch.tv/CastleSuperBeast
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Formerly the Super Best Friendcast\, Castle Super Beast is a weekly gaming podcast featuring Woolie and Pat.
-DTEND:20251126T000000Z
-DTSTART:20251125T200000Z
-SUMMARY:CastleSuperBeast: Castle Super Beast Podcast
-UID:a911f5a1-17ee-4d29-bd1a-76fc85c23d25@a911.org
-URL:https://twitch.tv/CastleSuperBeast
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Hey I'm Pat. I stare at videogame. Videogame good. Also cat Elmo\, dog Caboose and lady Peach Saliva here sometime. Enjoy!
-DTEND:20250525T040000Z
-DTSTART:20250524T230000Z
-SUMMARY:PatStaresAt: Pat And Paige RETURN To DeltaRune Chapter 2!
-UID:23e1e95f-cabf-43aa-8ef1-48dbdb71002c@23e1.org
-URL:https://twitch.tv/PatStaresAt
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Formerly the Super Best Friendcast\, Castle Super Beast is a weekly gaming podcast featuring Woolie and Pat.
-DTEND:20251119T000000Z
-DTSTART:20251118T200000Z
-SUMMARY:CastleSuperBeast: Castle Super Beast Podcast
-UID:424f6239-5f4d-486a-b5f2-7e19eefc5457@424f.org
-URL:https://twitch.tv/CastleSuperBeast
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Formerly the Super Best Friendcast\, Castle Super Beast is a weekly gaming podcast featuring Woolie and Pat.
-DTEND:20270316T230000Z
-DTSTART:20270316T190000Z
-SUMMARY:CastleSuperBeast: Castle Super Beast Podcast
-UID:c2e133c8-8083-4084-9ec8-2c69def95bfb@c2e1.org
-URL:https://twitch.tv/CastleSuperBeast
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Hey I'm Pat. I stare at videogame. Videogame good. Also cat Elmo\, dog Caboose and lady Peach Saliva here sometime. Enjoy!
-DTEND:20250607T230000Z
-DTSTART:20250607T190000Z
-SUMMARY:PatStaresAt: PC Games Show 
-UID:43043f4a-6cf6-4256-bb09-8650ef47021d@4304.org
-URL:https://twitch.tv/PatStaresAt
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Hey I'm Pat. I stare at videogame. Videogame good. Also cat Elmo\, dog Caboose and lady Peach Saliva here sometime. Enjoy!
-DTEND:20250527T183000Z
-DTSTART:20250527T153000Z
-SUMMARY:PatStaresAt: Tiny Build Indie Showcase 
-UID:02b57d03-d549-4a95-bf88-d3a4551a3629@02b5.org
-URL:https://twitch.tv/PatStaresAt
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Hey I'm Pat. I stare at videogame. Videogame good. Also cat Elmo\, dog Caboose and lady Peach Saliva here sometime. Enjoy!
-DTEND:20250609T190000Z
-DTSTART:20250609T180000Z
-SUMMARY:PatStaresAt: Mario Kart World
-UID:2c144540-8232-4a1e-b7e8-1d326bc2ea25@2c14.org
-URL:https://twitch.tv/PatStaresAt
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Formerly the Super Best Friendcast\, Castle Super Beast is a weekly gaming podcast featuring Woolie and Pat.
-DTEND:20261104T000000Z
-DTSTART:20261103T200000Z
-SUMMARY:CastleSuperBeast: Castle Super Beast Podcast
-UID:8859c5c4-3237-4da9-b4b7-21184609d893@8859.org
-URL:https://twitch.tv/CastleSuperBeast
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Hey I'm Pat. I stare at videogame. Videogame good. Also cat Elmo\, dog Caboose and lady Peach Saliva here sometime. Enjoy!
-DTEND:20250620T040000Z
-DTSTART:20250619T230000Z
-SUMMARY:PatStaresAt: Raidou Remastered: The Mystery of the Soulless Army
-UID:6db88ae1-683d-4d5e-bae8-5aee0dd46f01@6db8.org
-URL:https://twitch.tv/PatStaresAt
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Formerly the Super Best Friendcast\, Castle Super Beast is a weekly gaming podcast featuring Woolie and Pat.
-DTEND:20260421T230000Z
-DTSTART:20260421T190000Z
-SUMMARY:CastleSuperBeast: Castle Super Beast Podcast
-UID:852311ac-9182-4baf-ba65-98c485324256@8523.org
-URL:https://twitch.tv/CastleSuperBeast
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Formerly the Super Best Friendcast\, Castle Super Beast is a weekly gaming podcast featuring Woolie and Pat.
-DTEND:20250617T230000Z
-DTSTART:20250617T190000Z
-SUMMARY:CastleSuperBeast: Castle Super Beast Podcast
-UID:e89e631e-f485-4ac2-8652-0d450373c015@e89e.org
-URL:https://twitch.tv/CastleSuperBeast
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Formerly the Super Best Friendcast\, Castle Super Beast is a weekly gaming podcast featuring Woolie and Pat.
-DTEND:20260428T230000Z
-DTSTART:20260428T190000Z
-SUMMARY:CastleSuperBeast: Castle Super Beast Podcast
-UID:a566197b-49e8-41fc-a468-767e075bbf03@a566.org
-URL:https://twitch.tv/CastleSuperBeast
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Formerly the Super Best Friendcast\, Castle Super Beast is a weekly gaming podcast featuring Woolie and Pat.
-DTEND:20270406T230000Z
-DTSTART:20270406T190000Z
-SUMMARY:CastleSuperBeast: Castle Super Beast Podcast
-UID:1660727e-2465-4e97-9c41-4c08222b3ecb@1660.org
-URL:https://twitch.tv/CastleSuperBeast
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Formerly the Super Best Friendcast\, Castle Super Beast is a weekly gaming podcast featuring Woolie and Pat.
-DTEND:20260218T000000Z
-DTSTART:20260217T200000Z
-SUMMARY:CastleSuperBeast: Castle Super Beast Podcast
-UID:65a91db6-0933-4bca-9d1d-3df42e1b5108@65a9.org
-URL:https://twitch.tv/CastleSuperBeast
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Formerly the Super Best Friendcast\, Castle Super Beast is a weekly gaming podcast featuring Woolie and Pat.
-DTEND:20260414T230000Z
-DTSTART:20260414T190000Z
-SUMMARY:CastleSuperBeast: Castle Super Beast Podcast
-UID:6a41f593-4caf-40d8-bd8b-e61dd903a96b@6a41.org
-URL:https://twitch.tv/CastleSuperBeast
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Formerly the Super Best Friendcast\, Castle Super Beast is a weekly gaming podcast featuring Woolie and Pat.
-DTEND:20260211T000000Z
-DTSTART:20260210T200000Z
-SUMMARY:CastleSuperBeast: Castle Super Beast Podcast
-UID:e2fef0a8-2214-456e-bd28-0fe245cef126@e2fe.org
-URL:https://twitch.tv/CastleSuperBeast
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Formerly the Super Best Friendcast\, Castle Super Beast is a weekly gaming podcast featuring Woolie and Pat.
-DTEND:20270106T000000Z
-DTSTART:20270105T200000Z
-SUMMARY:CastleSuperBeast: Castle Super Beast Podcast
-UID:38b25330-3cb0-47b5-97f6-cdae313e8e7c@38b2.org
-URL:https://twitch.tv/CastleSuperBeast
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Formerly the Super Best Friendcast\, Castle Super Beast is a weekly gaming podcast featuring Woolie and Pat.
-DTEND:20250624T230000Z
-DTSTART:20250624T190000Z
-SUMMARY:CastleSuperBeast: Castle Super Beast Podcast
-UID:162507c9-1615-4bf9-9e48-6bac2a619bc0@1625.org
-URL:https://twitch.tv/CastleSuperBeast
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Formerly the Super Best Friendcast\, Castle Super Beast is a weekly gaming podcast featuring Woolie and Pat.
-DTEND:20270210T000000Z
-DTSTART:20270209T200000Z
-SUMMARY:CastleSuperBeast: Castle Super Beast Podcast
-UID:8c3044d3-8896-4890-90c2-b2d628c91f24@8c30.org
-URL:https://twitch.tv/CastleSuperBeast
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Formerly the Super Best Friendcast\, Castle Super Beast is a weekly gaming podcast featuring Woolie and Pat.
-DTEND:20251028T230000Z
-DTSTART:20251028T190000Z
-SUMMARY:CastleSuperBeast: Castle Super Beast Podcast
-UID:bdbf41de-fdb2-4c58-99c6-e6deb7aca036@bdbf.org
-URL:https://twitch.tv/CastleSuperBeast
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Formerly the Super Best Friendcast\, Castle Super Beast is a weekly gaming podcast featuring Woolie and Pat.
-DTEND:20261006T230000Z
-DTSTART:20261006T190000Z
-SUMMARY:CastleSuperBeast: Castle Super Beast Podcast
-UID:03c34f7f-df88-484a-b237-4946a556587d@03c3.org
-URL:https://twitch.tv/CastleSuperBeast
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Formerly the Super Best Friendcast\, Castle Super Beast is a weekly gaming podcast featuring Woolie and Pat.
-DTEND:20251014T230000Z
-DTSTART:20251014T190000Z
-SUMMARY:CastleSuperBeast: Castle Super Beast Podcast
-UID:1f964841-bf7b-4e30-9748-389d2659a59f@1f96.org
-URL:https://twitch.tv/CastleSuperBeast
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Formerly the Super Best Friendcast\, Castle Super Beast is a weekly gaming podcast featuring Woolie and Pat.
-DTEND:20261202T000000Z
-DTSTART:20261201T200000Z
-SUMMARY:CastleSuperBeast: Castle Super Beast Podcast
-UID:eeaf51ad-6013-4e5c-873c-c9c64b530e31@eeaf.org
-URL:https://twitch.tv/CastleSuperBeast
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Hey I'm Pat. I stare at videogame. Videogame good. Also cat Elmo\, dog Caboose and lady Peach Saliva here sometime. Enjoy!
-DTEND:20250609T230000Z
-DTSTART:20250609T220000Z
-SUMMARY:PatStaresAt: Tears of the Kingdom Switch 2
-UID:8959de4a-c1ec-431b-9677-ae3022292ff2@8959.org
-URL:https://twitch.tv/PatStaresAt
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Formerly the Super Best Friendcast\, Castle Super Beast is a weekly gaming podcast featuring Woolie and Pat.
-DTEND:20260304T000000Z
-DTSTART:20260303T200000Z
-SUMMARY:CastleSuperBeast: Castle Super Beast Podcast
-UID:a8d36dec-3d00-4689-a86b-d9949991ca5f@a8d3.org
-URL:https://twitch.tv/CastleSuperBeast
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Formerly the Super Best Friendcast\, Castle Super Beast is a weekly gaming podcast featuring Woolie and Pat.
-DTEND:20250708T230000Z
-DTSTART:20250708T190000Z
-SUMMARY:CastleSuperBeast: Castle Super Beast Podcast
-UID:de92cef8-a2fc-480b-9abf-25a1e932386e@de92.org
-URL:https://twitch.tv/CastleSuperBeast
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Formerly the Super Best Friendcast\, Castle Super Beast is a weekly gaming podcast featuring Woolie and Pat.
-DTEND:20260324T230000Z
-DTSTART:20260324T190000Z
-SUMMARY:CastleSuperBeast: Castle Super Beast Podcast
-UID:a71e4f54-fc40-41d8-ad29-bcc08ba5b5c1@a71e.org
-URL:https://twitch.tv/CastleSuperBeast
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Formerly the Super Best Friendcast\, Castle Super Beast is a weekly gaming podcast featuring Woolie and Pat.
-DTEND:20260519T230000Z
-DTSTART:20260519T190000Z
-SUMMARY:CastleSuperBeast: Castle Super Beast Podcast
-UID:ce6cfd43-673d-407c-963d-ae5d448deab1@ce6c.org
-URL:https://twitch.tv/CastleSuperBeast
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Hey I'm Pat. I stare at videogame. Videogame good. Also cat Elmo\, dog Caboose and lady Peach Saliva here sometime. Enjoy!
-DTEND:20250603T230000Z
-DTSTART:20250603T190000Z
-SUMMARY:PatStaresAt: Pat Stares At The Castle Super Beast Podcast Over At Twitch.tv/CastleSuperBeast
-UID:b2e119aa-4bd5-4f74-9ea0-65a45d36f57d@b2e1.org
-URL:https://twitch.tv/PatStaresAt
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Formerly the Super Best Friendcast\, Castle Super Beast is a weekly gaming podcast featuring Woolie and Pat.
-DTEND:20260505T230000Z
-DTSTART:20260505T190000Z
-SUMMARY:CastleSuperBeast: Castle Super Beast Podcast
-UID:35ac0806-f59d-40be-8b67-f043a5456db3@35ac.org
-URL:https://twitch.tv/CastleSuperBeast
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Hey I'm Pat. I stare at videogame. Videogame good. Also cat Elmo\, dog Caboose and lady Peach Saliva here sometime. Enjoy!
-DTEND:20250524T040000Z
-DTSTART:20250523T230000Z
-SUMMARY:PatStaresAt: Pat Stares At Clair Obscur - Expedition 33! WE CONTINUE
-UID:adcb018c-2789-454f-98bd-72f5ef8af0ab@adcb.org
-URL:https://twitch.tv/PatStaresAt
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Formerly the Super Best Friendcast\, Castle Super Beast is a weekly gaming podcast featuring Woolie and Pat.
-DTEND:20261111T000000Z
-DTSTART:20261110T200000Z
-SUMMARY:CastleSuperBeast: Castle Super Beast Podcast
-UID:2eed5ded-e637-4712-a82e-0a47856ec4c4@2eed.org
-URL:https://twitch.tv/CastleSuperBeast
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Hey I'm Pat. I stare at videogame. Videogame good. Also cat Elmo\, dog Caboose and lady Peach Saliva here sometime. Enjoy!
-DTEND:20250829T230000Z
-DTSTART:20250829T190000Z
-SUMMARY:PatStaresAt: Shinobi: Art of Vengeance
-UID:19abfcf3-5a6d-432a-a8ef-6c2807b30067@19ab.org
-URL:https://twitch.tv/PatStaresAt
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Hey I'm Pat. I stare at videogame. Videogame good. Also cat Elmo\, dog Caboose and lady Peach Saliva here sometime. Enjoy!
-DTEND:20250605T050000Z
-DTSTART:20250604T210000Z
-SUMMARY:PatStaresAt: DELTARUNE CHAPTER 3+4 - FINALLY W/ Pat and Paige! Stay Determined!
-UID:68ca716f-8dc3-4d25-9c33-515617646898@68ca.org
-URL:https://twitch.tv/PatStaresAt
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Formerly the Super Best Friendcast\, Castle Super Beast is a weekly gaming podcast featuring Woolie and Pat.
-DTEND:20260225T000000Z
-DTSTART:20260224T200000Z
-SUMMARY:CastleSuperBeast: Castle Super Beast Podcast
-UID:2410a23e-fae7-4d3a-a173-d0ec825f9af9@2410.org
-URL:https://twitch.tv/CastleSuperBeast
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Formerly the Super Best Friendcast\, Castle Super Beast is a weekly gaming podcast featuring Woolie and Pat.
-DTEND:20251210T000000Z
-DTSTART:20251209T200000Z
-SUMMARY:CastleSuperBeast: Castle Super Beast Podcast
-UID:638647bc-4eda-4301-9af0-2042b2862a7d@6386.org
-URL:https://twitch.tv/CastleSuperBeast
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Formerly the Super Best Friendcast\, Castle Super Beast is a weekly gaming podcast featuring Woolie and Pat.
-DTEND:20250805T230000Z
-DTSTART:20250805T190000Z
-SUMMARY:CastleSuperBeast: Castle Super Beast Podcast
-UID:4a1011ae-d367-4d5b-97b2-ae6f31cca55d@4a10.org
-URL:https://twitch.tv/CastleSuperBeast
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Formerly the Super Best Friendcast\, Castle Super Beast is a weekly gaming podcast featuring Woolie and Pat.
-DTEND:20260204T000000Z
-DTSTART:20260203T200000Z
-SUMMARY:CastleSuperBeast: Castle Super Beast Podcast
-UID:b8bc29b4-6796-44e7-9331-6849aa0d6937@b8bc.org
-URL:https://twitch.tv/CastleSuperBeast
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Hey I'm Pat. I stare at videogame. Videogame good. Also cat Elmo\, dog Caboose and lady Peach Saliva here sometime. Enjoy!
-DTEND:20250602T040000Z
-DTSTART:20250601T230000Z
-SUMMARY:PatStaresAt: Elden Ring: Nightreign
-UID:4add82b2-d1e8-4bcf-90e6-01d7a295b8ea@4add.org
-URL:https://twitch.tv/PatStaresAt
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Formerly the Super Best Friendcast\, Castle Super Beast is a weekly gaming podcast featuring Woolie and Pat.
-DTEND:20250923T230000Z
-DTSTART:20250923T190000Z
-SUMMARY:CastleSuperBeast: Castle Super Beast Podcast
-UID:a08cf22f-583b-4496-b9c2-c1d2ea70b267@a08c.org
-URL:https://twitch.tv/CastleSuperBeast
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Formerly the Super Best Friendcast\, Castle Super Beast is a weekly gaming podcast featuring Woolie and Pat.
-DTEND:20261118T000000Z
-DTSTART:20261117T200000Z
-SUMMARY:CastleSuperBeast: Castle Super Beast Podcast
-UID:ace6906f-7438-42d3-9a23-ba488c5f6ff4@ace6.org
-URL:https://twitch.tv/CastleSuperBeast
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Formerly the Super Best Friendcast\, Castle Super Beast is a weekly gaming podcast featuring Woolie and Pat.
-DTEND:20260512T230000Z
-DTSTART:20260512T190000Z
-SUMMARY:CastleSuperBeast: Castle Super Beast Podcast
-UID:a9c75b7b-f239-406e-953a-1d44c26b6073@a9c7.org
-URL:https://twitch.tv/CastleSuperBeast
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Formerly the Super Best Friendcast\, Castle Super Beast is a weekly gaming podcast featuring Woolie and Pat.
-DTEND:20260901T230000Z
-DTSTART:20260901T190000Z
-SUMMARY:CastleSuperBeast: Castle Super Beast Podcast
-UID:de24508d-84dd-4c8e-b06d-1b58ec34fba0@de24.org
-URL:https://twitch.tv/CastleSuperBeast
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Hey I'm Pat. I stare at videogame. Videogame good. Also cat Elmo\, dog Caboose and lady Peach Saliva here sometime. Enjoy!
-DTEND:20250531T230000Z
-DTSTART:20250531T190000Z
-SUMMARY:PatStaresAt: Elden Ring: Nightreign w/ ReggieMTL And WoolieVersus!
-UID:e6ec044c-1ae3-409e-8a0e-ae09d9c32275@e6ec.org
-URL:https://twitch.tv/PatStaresAt
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Formerly the Super Best Friendcast\, Castle Super Beast is a weekly gaming podcast featuring Woolie and Pat.
-DTEND:20270217T000000Z
-DTSTART:20270216T200000Z
-SUMMARY:CastleSuperBeast: Castle Super Beast Podcast
-UID:d77b0b8e-b68c-47f5-87ff-da1a2e042d49@d77b.org
-URL:https://twitch.tv/CastleSuperBeast
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Formerly the Super Best Friendcast\, Castle Super Beast is a weekly gaming podcast featuring Woolie and Pat.
-DTEND:20270127T000000Z
-DTSTART:20270126T200000Z
-SUMMARY:CastleSuperBeast: Castle Super Beast Podcast
-UID:7a3107b7-025e-46e2-bfc7-8f8c96a61329@7a31.org
-URL:https://twitch.tv/CastleSuperBeast
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Formerly the Super Best Friendcast\, Castle Super Beast is a weekly gaming podcast featuring Woolie and Pat.
-DTEND:20250930T230000Z
-DTSTART:20250930T190000Z
-SUMMARY:CastleSuperBeast: Castle Super Beast Podcast
-UID:5aea9511-8701-4e2f-a359-5d357cba7832@5aea.org
-URL:https://twitch.tv/CastleSuperBeast
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Formerly the Super Best Friendcast\, Castle Super Beast is a weekly gaming podcast featuring Woolie and Pat.
-DTEND:20250722T230000Z
-DTSTART:20250722T190000Z
-SUMMARY:CastleSuperBeast: Castle Super Beast Podcast
-UID:4b02ed32-c59a-403e-9ffe-4b3caca353f7@4b02.org
-URL:https://twitch.tv/CastleSuperBeast
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Formerly the Super Best Friendcast\, Castle Super Beast is a weekly gaming podcast featuring Woolie and Pat.
-DTEND:20250916T230000Z
-DTSTART:20250916T190000Z
-SUMMARY:CastleSuperBeast: Castle Super Beast Podcast
-UID:72e38b52-3d02-414c-beee-19ae8b4620c2@72e3.org
-URL:https://twitch.tv/CastleSuperBeast
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Formerly the Super Best Friendcast\, Castle Super Beast is a weekly gaming podcast featuring Woolie and Pat.
-DTEND:20261125T000000Z
-DTSTART:20261124T200000Z
-SUMMARY:CastleSuperBeast: Castle Super Beast Podcast
-UID:7c9e1050-3567-4744-931a-62ed86d47976@7c9e.org
-URL:https://twitch.tv/CastleSuperBeast
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Hey I'm Pat. I stare at videogame. Videogame good. Also cat Elmo\, dog Caboose and lady Peach Saliva here sometime. Enjoy!
-DTEND:20250526T040000Z
-DTSTART:20250525T230000Z
-SUMMARY:PatStaresAt: Pat And Paige RETURN To DeltaRune Chapter 2!
-UID:b034eb9f-1c6d-4fb2-ae96-9ca8d238286e@b034.org
-URL:https://twitch.tv/PatStaresAt
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Hey I'm Pat. I stare at videogame. Videogame good. Also cat Elmo\, dog Caboose and lady Peach Saliva here sometime. Enjoy!
-DTEND:20250912T230000Z
-DTSTART:20250912T190000Z
-SUMMARY:PatStaresAt: Borderlands 4
-UID:b508b71e-a037-437a-9b9f-7cd46ecbd0ab@b508.org
-URL:https://twitch.tv/PatStaresAt
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Formerly the Super Best Friendcast\, Castle Super Beast is a weekly gaming podcast featuring Woolie and Pat.
-DTEND:20270330T230000Z
-DTSTART:20270330T190000Z
-SUMMARY:CastleSuperBeast: Castle Super Beast Podcast
-UID:39e91caf-c3de-416c-89ad-7432da493d92@39e9.org
-URL:https://twitch.tv/CastleSuperBeast
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Formerly the Super Best Friendcast\, Castle Super Beast is a weekly gaming podcast featuring Woolie and Pat.
-DTEND:20260331T230000Z
-DTSTART:20260331T190000Z
-SUMMARY:CastleSuperBeast: Castle Super Beast Podcast
-UID:68d87670-2652-4e04-94d2-c57ae07c7116@68d8.org
-URL:https://twitch.tv/CastleSuperBeast
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Formerly the Super Best Friendcast\, Castle Super Beast is a weekly gaming podcast featuring Woolie and Pat.
-DTEND:20270323T230000Z
-DTSTART:20270323T190000Z
-SUMMARY:CastleSuperBeast: Castle Super Beast Podcast
-UID:233e97cc-f111-4d80-945e-ad45e32faee7@233e.org
-URL:https://twitch.tv/CastleSuperBeast
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Formerly the Super Best Friendcast\, Castle Super Beast is a weekly gaming podcast featuring Woolie and Pat.
-DTEND:20261223T000000Z
-DTSTART:20261222T200000Z
-SUMMARY:CastleSuperBeast: Castle Super Beast Podcast
-UID:a6dc8056-9286-4467-bca6-7019b8781249@a6dc.org
-URL:https://twitch.tv/CastleSuperBeast
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Formerly the Super Best Friendcast\, Castle Super Beast is a weekly gaming podcast featuring Woolie and Pat.
-DTEND:20250715T230000Z
-DTSTART:20250715T190000Z
-SUMMARY:CastleSuperBeast: Castle Super Beast Podcast
-UID:7c3875ef-8e2a-4aa8-a248-3f504048780e@7c38.org
-URL:https://twitch.tv/CastleSuperBeast
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Formerly the Super Best Friendcast\, Castle Super Beast is a weekly gaming podcast featuring Woolie and Pat.
-DTEND:20260609T230000Z
-DTSTART:20260609T190000Z
-SUMMARY:CastleSuperBeast: Castle Super Beast Podcast
-UID:5f685ff9-7f46-4771-a7e4-6d460b179144@5f68.org
-URL:https://twitch.tv/CastleSuperBeast
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Formerly the Super Best Friendcast\, Castle Super Beast is a weekly gaming podcast featuring Woolie and Pat.
-DTEND:20270420T230000Z
-DTSTART:20270420T190000Z
-SUMMARY:CastleSuperBeast: Castle Super Beast Podcast
-UID:c488ef84-ddb6-4c8e-acbe-89faaf7c3d90@c488.org
-URL:https://twitch.tv/CastleSuperBeast
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Formerly the Super Best Friendcast\, Castle Super Beast is a weekly gaming podcast featuring Woolie and Pat.
-DTEND:20251224T000000Z
-DTSTART:20251223T200000Z
-SUMMARY:CastleSuperBeast: Castle Super Beast Podcast
-UID:ce21152b-17ce-4c44-b9b3-e4b8ef24d8e4@ce21.org
-URL:https://twitch.tv/CastleSuperBeast
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Formerly the Super Best Friendcast\, Castle Super Beast is a weekly gaming podcast featuring Woolie and Pat.
-DTEND:20270113T000000Z
-DTSTART:20270112T200000Z
-SUMMARY:CastleSuperBeast: Castle Super Beast Podcast
-UID:fb3c52d0-0c96-46bd-a0c5-0a8ff1854702@fb3c.org
-URL:https://twitch.tv/CastleSuperBeast
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Formerly the Super Best Friendcast\, Castle Super Beast is a weekly gaming podcast featuring Woolie and Pat.
-DTEND:20260721T230000Z
-DTSTART:20260721T190000Z
-SUMMARY:CastleSuperBeast: Castle Super Beast Podcast
-UID:a610582a-9941-46db-8b54-96bdf19353ca@a610.org
-URL:https://twitch.tv/CastleSuperBeast
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Formerly the Super Best Friendcast\, Castle Super Beast is a weekly gaming podcast featuring Woolie and Pat.
-DTEND:20270203T000000Z
-DTSTART:20270202T200000Z
-SUMMARY:CastleSuperBeast: Castle Super Beast Podcast
-UID:1f5170f9-5cc3-4774-b103-25065d616bc5@1f51.org
-URL:https://twitch.tv/CastleSuperBeast
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Formerly the Super Best Friendcast\, Castle Super Beast is a weekly gaming podcast featuring Woolie and Pat.
-DTEND:20260825T230000Z
-DTSTART:20260825T190000Z
-SUMMARY:CastleSuperBeast: Castle Super Beast Podcast
-UID:16a75ffe-6dee-4bcb-b4b4-167b5cd80e38@16a7.org
-URL:https://twitch.tv/CastleSuperBeast
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Formerly the Super Best Friendcast\, Castle Super Beast is a weekly gaming podcast featuring Woolie and Pat.
-DTEND:20250909T230000Z
-DTSTART:20250909T190000Z
-SUMMARY:CastleSuperBeast: Castle Super Beast Podcast
-UID:47264501-b576-43ba-8e1a-8a0df65ba601@4726.org
-URL:https://twitch.tv/CastleSuperBeast
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Formerly the Super Best Friendcast\, Castle Super Beast is a weekly gaming podcast featuring Woolie and Pat.
-DTEND:20260804T230000Z
-DTSTART:20260804T190000Z
-SUMMARY:CastleSuperBeast: Castle Super Beast Podcast
-UID:069d8a3f-ee94-4ecd-a4f1-5f155b95de25@069d.org
-URL:https://twitch.tv/CastleSuperBeast
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Formerly the Super Best Friendcast\, Castle Super Beast is a weekly gaming podcast featuring Woolie and Pat.
-DTEND:20270120T000000Z
-DTSTART:20270119T200000Z
-SUMMARY:CastleSuperBeast: Castle Super Beast Podcast
-UID:cebc167f-0695-45c6-94af-c01a9a0256a9@cebc.org
-URL:https://twitch.tv/CastleSuperBeast
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Formerly the Super Best Friendcast\, Castle Super Beast is a weekly gaming podcast featuring Woolie and Pat.
-DTEND:20261209T000000Z
-DTSTART:20261208T200000Z
-SUMMARY:CastleSuperBeast: Castle Super Beast Podcast
-UID:3abf4ec3-6c49-4584-8fd2-29d3682bcc8d@3abf.org
-URL:https://twitch.tv/CastleSuperBeast
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Formerly the Super Best Friendcast\, Castle Super Beast is a weekly gaming podcast featuring Woolie and Pat.
-DTEND:20260915T230000Z
-DTSTART:20260915T190000Z
-SUMMARY:CastleSuperBeast: Castle Super Beast Podcast
-UID:239840df-f9e7-4e00-afb9-e8937fe02885@2398.org
-URL:https://twitch.tv/CastleSuperBeast
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Hey I'm Pat. I stare at videogame. Videogame good. Also cat Elmo\, dog Caboose and lady Peach Saliva here sometime. Enjoy!
-DTEND:20250531T040000Z
-DTSTART:20250530T230000Z
-SUMMARY:PatStaresAt: Elden Ring: Nightreign
-UID:fb00e2ed-d80f-412b-9985-4a142adb33d4@fb00.org
-URL:https://twitch.tv/PatStaresAt
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Hey I'm Pat. I stare at videogame. Videogame good. Also cat Elmo\, dog Caboose and lady Peach Saliva here sometime. Enjoy!
-DTEND:20250726T040000Z
-DTSTART:20250725T230000Z
-SUMMARY:PatStaresAt: Wild Hearts S
-UID:ea807278-cc2e-4160-bf71-47430b130b91@ea80.org
-URL:https://twitch.tv/PatStaresAt
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Hey I'm Pat. I stare at videogame. Videogame good. Also cat Elmo\, dog Caboose and lady Peach Saliva here sometime. Enjoy!
-DTEND:20250609T220000Z
-DTSTART:20250609T210000Z
-SUMMARY:PatStaresAt: Breath of the Wild Switch 2
-UID:8af2ae36-aa79-43ca-a606-ec2651af5bbd@8af2.org
-URL:https://twitch.tv/PatStaresAt
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Formerly the Super Best Friendcast\, Castle Super Beast is a weekly gaming podcast featuring Woolie and Pat.
-DTEND:20250701T230000Z
-DTSTART:20250701T190000Z
-SUMMARY:CastleSuperBeast: Castle Super Beast Podcast
-UID:214c733c-3c74-4322-abff-b1e54b72db8e@214c.org
-URL:https://twitch.tv/CastleSuperBeast
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Formerly the Super Best Friendcast\, Castle Super Beast is a weekly gaming podcast featuring Woolie and Pat.
-DTEND:20251217T000000Z
-DTSTART:20251216T200000Z
-SUMMARY:CastleSuperBeast: Castle Super Beast Podcast
-UID:eb9bdb7a-fb51-4649-aa5d-70bfdb8f91b1@eb9b.org
-URL:https://twitch.tv/CastleSuperBeast
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Formerly the Super Best Friendcast\, Castle Super Beast is a weekly gaming podcast featuring Woolie and Pat.
-DTEND:20260811T230000Z
-DTSTART:20260811T190000Z
-SUMMARY:CastleSuperBeast: Castle Super Beast Podcast
-UID:c8b55bbe-8e2b-4519-bac8-937e97f11629@c8b5.org
-URL:https://twitch.tv/CastleSuperBeast
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Formerly the Super Best Friendcast\, Castle Super Beast is a weekly gaming podcast featuring Woolie and Pat.
-DTEND:20261027T230000Z
-DTSTART:20261027T190000Z
-SUMMARY:CastleSuperBeast: Castle Super Beast Podcast
-UID:d3a42783-eef5-4c37-8edf-132a2864c9b1@d3a4.org
-URL:https://twitch.tv/CastleSuperBeast
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Hey I'm Pat. I stare at videogame. Videogame good. Also cat Elmo\, dog Caboose and lady Peach Saliva here sometime. Enjoy!
-DTEND:20250626T230000Z
-DTSTART:20250626T190000Z
-SUMMARY:PatStaresAt: Death Stranding 2: On the Beach
-UID:d496bc8e-967b-4d97-bd9c-6d3d1edf2b22@d496.org
-URL:https://twitch.tv/PatStaresAt
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Hey I'm Pat. I stare at videogame. Videogame good. Also cat Elmo\, dog Caboose and lady Peach Saliva here sometime. Enjoy!
-DTEND:20250828T230000Z
-DTSTART:20250828T190000Z
-SUMMARY:PatStaresAt: Metal Gear Solid Δ: Snake Eater
-UID:e5488679-4d34-4da8-9d18-6a567aee20c9@e548.org
-URL:https://twitch.tv/PatStaresAt
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Formerly the Super Best Friendcast\, Castle Super Beast is a weekly gaming podcast featuring Woolie and Pat.
-DTEND:20260107T000000Z
-DTSTART:20260106T200000Z
-SUMMARY:CastleSuperBeast: Castle Super Beast Podcast
-UID:8f381b17-7071-4ef4-bea0-913c4da6c059@8f38.org
-URL:https://twitch.tv/CastleSuperBeast
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Formerly the Super Best Friendcast\, Castle Super Beast is a weekly gaming podcast featuring Woolie and Pat.
-DTEND:20260728T230000Z
-DTSTART:20260728T190000Z
-SUMMARY:CastleSuperBeast: Castle Super Beast Podcast
-UID:2cd7b5d7-0fbb-433e-aad8-ccc38ed45e17@2cd7.org
-URL:https://twitch.tv/CastleSuperBeast
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Formerly the Super Best Friendcast\, Castle Super Beast is a weekly gaming podcast featuring Woolie and Pat.
-DTEND:20250812T230000Z
-DTSTART:20250812T190000Z
-SUMMARY:CastleSuperBeast: Castle Super Beast Podcast
-UID:f75846ba-2042-4d20-b0a4-6c44a467967a@f758.org
-URL:https://twitch.tv/CastleSuperBeast
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Hey I'm Pat. I stare at videogame. Videogame good. Also cat Elmo\, dog Caboose and lady Peach Saliva here sometime. Enjoy!
-DTEND:20250610T230000Z
-DTSTART:20250610T190000Z
-SUMMARY:PatStaresAt: Pat Stares At The Castle Super Beast Podcast Over At Twitch.tv/CastleSuperBeast
-UID:193282d7-3c1b-4995-81fc-31120b275f87@1932.org
-URL:https://twitch.tv/PatStaresAt
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Formerly the Super Best Friendcast\, Castle Super Beast is a weekly gaming podcast featuring Woolie and Pat.
-DTEND:20250527T230000Z
-DTSTART:20250527T190000Z
-SUMMARY:CastleSuperBeast: Castle Super Beast Podcast
-UID:61e47838-f3c6-4f11-8279-e709e14f685b@61e4.org
-URL:https://twitch.tv/CastleSuperBeast
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Hey I'm Pat. I stare at videogame. Videogame good. Also cat Elmo\, dog Caboose and lady Peach Saliva here sometime. Enjoy!
-DTEND:20250906T040000Z
-DTSTART:20250905T230000Z
-SUMMARY:PatStaresAt: Daemon X Machina: Titanic Scion
-UID:292b3b05-08e9-4f64-9a21-a8c920e680a2@292b.org
-URL:https://twitch.tv/PatStaresAt
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Formerly the Super Best Friendcast\, Castle Super Beast is a weekly gaming podcast featuring Woolie and Pat.
-DTEND:20261020T230000Z
-DTSTART:20261020T190000Z
-SUMMARY:CastleSuperBeast: Castle Super Beast Podcast
-UID:e4c05e11-0f89-49e7-ad41-ac46de13e84c@e4c0.org
-URL:https://twitch.tv/CastleSuperBeast
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Formerly the Super Best Friendcast\, Castle Super Beast is a weekly gaming podcast featuring Woolie and Pat.
-DTEND:20260818T230000Z
-DTSTART:20260818T190000Z
-SUMMARY:CastleSuperBeast: Castle Super Beast Podcast
-UID:0b6dd3a0-874f-46bb-ba51-11ff8c529572@0b6d.org
-URL:https://twitch.tv/CastleSuperBeast
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Formerly the Super Best Friendcast\, Castle Super Beast is a weekly gaming podcast featuring Woolie and Pat.
-DTEND:20260623T230000Z
-DTSTART:20260623T190000Z
-SUMMARY:CastleSuperBeast: Castle Super Beast Podcast
-UID:f53dc0d7-e645-4851-b1a7-fe5ea453f80a@f53d.org
-URL:https://twitch.tv/CastleSuperBeast
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Formerly the Super Best Friendcast\, Castle Super Beast is a weekly gaming podcast featuring Woolie and Pat.
-DTEND:20250826T230000Z
-DTSTART:20250826T190000Z
-SUMMARY:CastleSuperBeast: Castle Super Beast Podcast
-UID:a8a04706-758c-4a90-b6d6-7737c6254f69@a8a0.org
-URL:https://twitch.tv/CastleSuperBeast
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Formerly the Super Best Friendcast\, Castle Super Beast is a weekly gaming podcast featuring Woolie and Pat.
-DTEND:20270310T000000Z
-DTSTART:20270309T200000Z
-SUMMARY:CastleSuperBeast: Castle Super Beast Podcast
-UID:324901b1-d3be-46d4-8948-dd8d0e2fb0da@3249.org
-URL:https://twitch.tv/CastleSuperBeast
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Formerly the Super Best Friendcast\, Castle Super Beast is a weekly gaming podcast featuring Woolie and Pat.
-DTEND:20251112T000000Z
-DTSTART:20251111T200000Z
-SUMMARY:CastleSuperBeast: Castle Super Beast Podcast
-UID:5ceb4700-62ee-47fe-84d8-fccf14a3dbf3@5ceb.org
-URL:https://twitch.tv/CastleSuperBeast
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Formerly the Super Best Friendcast\, Castle Super Beast is a weekly gaming podcast featuring Woolie and Pat.
-DTEND:20261013T230000Z
-DTSTART:20261013T190000Z
-SUMMARY:CastleSuperBeast: Castle Super Beast Podcast
-UID:a98bfaa8-1266-4c9f-b678-b70a7ef1411d@a98b.org
-URL:https://twitch.tv/CastleSuperBeast
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Formerly the Super Best Friendcast\, Castle Super Beast is a weekly gaming podcast featuring Woolie and Pat.
-DTEND:20260121T000000Z
-DTSTART:20260120T200000Z
-SUMMARY:CastleSuperBeast: Castle Super Beast Podcast
-UID:fabab76c-3f32-4b43-bbf8-56054ded4b80@faba.org
-URL:https://twitch.tv/CastleSuperBeast
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Formerly the Super Best Friendcast\, Castle Super Beast is a weekly gaming podcast featuring Woolie and Pat.
-DTEND:20250729T230000Z
-DTSTART:20250729T190000Z
-SUMMARY:CastleSuperBeast: Castle Super Beast Podcast
-UID:3eb06a03-bfe5-4d72-9561-424c94cb8d95@3eb0.org
-URL:https://twitch.tv/CastleSuperBeast
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Formerly the Super Best Friendcast\, Castle Super Beast is a weekly gaming podcast featuring Woolie and Pat.
-DTEND:20270413T230000Z
-DTSTART:20270413T190000Z
-SUMMARY:CastleSuperBeast: Castle Super Beast Podcast
-UID:1b8bf468-305e-438e-8767-5770093c8e73@1b8b.org
-URL:https://twitch.tv/CastleSuperBeast
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Formerly the Super Best Friendcast\, Castle Super Beast is a weekly gaming podcast featuring Woolie and Pat.
-DTEND:20250819T230000Z
-DTSTART:20250819T190000Z
-SUMMARY:CastleSuperBeast: Castle Super Beast Podcast
-UID:126eea5d-4d7c-4c87-8e0e-2942fbc2a953@126e.org
-URL:https://twitch.tv/CastleSuperBeast
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Hey I'm Pat. I stare at videogame. Videogame good. Also cat Elmo\, dog Caboose and lady Peach Saliva here sometime. Enjoy!
-DTEND:20250609T210000Z
-DTSTART:20250609T200000Z
-SUMMARY:PatStaresAt: Nintendo Switch 2 Welcome Tour
-UID:658824aa-c050-4258-b190-7946b3dd744e@6588.org
-URL:https://twitch.tv/PatStaresAt
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Hey I'm Pat. I stare at videogame. Videogame good. Also cat Elmo\, dog Caboose and lady Peach Saliva here sometime. Enjoy!
-DTEND:20250529T040000Z
-DTSTART:20250528T230000Z
-SUMMARY:PatStaresAt: Pat Stares At Clair Obscur - Expedition 33! WE CONTINUE
-UID:cc4ee4f6-5bb8-4a52-994a-de39e369e535@cc4e.org
-URL:https://twitch.tv/PatStaresAt
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Hey I'm Pat. I stare at videogame. Videogame good. Also cat Elmo\, dog Caboose and lady Peach Saliva here sometime. Enjoy!
-DTEND:20250609T200000Z
-DTSTART:20250609T190000Z
-SUMMARY:PatStaresAt: Metroid Prime 4 Beyond 
-UID:5c32a6c3-e775-4f51-a52c-500909e5c6fa@5c32.org
-URL:https://twitch.tv/PatStaresAt
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Formerly the Super Best Friendcast\, Castle Super Beast is a weekly gaming podcast featuring Woolie and Pat.
-DTEND:20260128T000000Z
-DTSTART:20260127T200000Z
-SUMMARY:CastleSuperBeast: Castle Super Beast Podcast
-UID:5c222120-3e18-4b8e-90ce-c55b5f1105be@5c22.org
+UID:0b4168c1-71ff-4f18-b129-89a4ad27c673@0b41.org
 URL:https://twitch.tv/CastleSuperBeast
 END:VEVENT
 BEGIN:VEVENT
@@ -1006,15 +30,991 @@ DESCRIPTION:Hey I'm Pat. I stare at videogame. Videogame good. Also cat Elmo\, d
 DTEND:20250527T230000Z
 DTSTART:20250527T200000Z
 SUMMARY:PatStaresAt: Pat Stares At The Castle Super Beast Podcast Over At Twitch.tv/CastleSuperBeast
-UID:83420253-6ffb-49c5-a4b9-b7d513d2008a@8342.org
+UID:d5fb84bb-34d9-47dc-91c5-1fcc8c5be736@d5fb.org
 URL:https://twitch.tv/PatStaresAt
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Formerly the Super Best Friendcast\, Castle Super Beast is a weekly gaming podcast featuring Woolie and Pat.
+DTEND:20261125T000000Z
+DTSTART:20261124T200000Z
+SUMMARY:CastleSuperBeast: Castle Super Beast Podcast
+UID:8aa876e1-63af-4087-8f95-f771a8dc9667@8aa8.org
+URL:https://twitch.tv/CastleSuperBeast
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Formerly the Super Best Friendcast\, Castle Super Beast is a weekly gaming podcast featuring Woolie and Pat.
+DTEND:20260818T230000Z
+DTSTART:20260818T190000Z
+SUMMARY:CastleSuperBeast: Castle Super Beast Podcast
+UID:c70ec66f-196e-4670-a795-6e736a9bc1dd@c70e.org
+URL:https://twitch.tv/CastleSuperBeast
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Formerly the Super Best Friendcast\, Castle Super Beast is a weekly gaming podcast featuring Woolie and Pat.
+DTEND:20261020T230000Z
+DTSTART:20261020T190000Z
+SUMMARY:CastleSuperBeast: Castle Super Beast Podcast
+UID:0ddc4162-c271-4d65-b0cb-0ff62644494f@0ddc.org
+URL:https://twitch.tv/CastleSuperBeast
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Formerly the Super Best Friendcast\, Castle Super Beast is a weekly gaming podcast featuring Woolie and Pat.
+DTEND:20250819T230000Z
+DTSTART:20250819T190000Z
+SUMMARY:CastleSuperBeast: Castle Super Beast Podcast
+UID:1e2e1aee-8aaa-4b06-8ee5-1bfa76c2f2a7@1e2e.org
+URL:https://twitch.tv/CastleSuperBeast
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Hey I'm Pat. I stare at videogame. Videogame good. Also cat Elmo\, dog Caboose and lady Peach Saliva here sometime. Enjoy!
+DTEND:20250610T230000Z
+DTSTART:20250610T190000Z
+SUMMARY:PatStaresAt: Pat Stares At The Castle Super Beast Podcast Over At Twitch.tv/CastleSuperBeast
+UID:bd61a199-d12a-4a17-83dd-b73b390ccc90@bd61.org
+URL:https://twitch.tv/PatStaresAt
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Formerly the Super Best Friendcast\, Castle Super Beast is a weekly gaming podcast featuring Woolie and Pat.
+DTEND:20260421T230000Z
+DTSTART:20260421T190000Z
+SUMMARY:CastleSuperBeast: Castle Super Beast Podcast
+UID:e2662f43-8f8b-495a-a78c-98676230f5ed@e266.org
+URL:https://twitch.tv/CastleSuperBeast
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Formerly the Super Best Friendcast\, Castle Super Beast is a weekly gaming podcast featuring Woolie and Pat.
+DTEND:20260630T230000Z
+DTSTART:20260630T190000Z
+SUMMARY:CastleSuperBeast: Castle Super Beast Podcast
+UID:7d986c05-87bd-4a90-8d27-b6a97d6db025@7d98.org
+URL:https://twitch.tv/CastleSuperBeast
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Formerly the Super Best Friendcast\, Castle Super Beast is a weekly gaming podcast featuring Woolie and Pat.
+DTEND:20251014T230000Z
+DTSTART:20251014T190000Z
+SUMMARY:CastleSuperBeast: Castle Super Beast Podcast
+UID:5193b680-d878-4042-b340-7ab92681f849@5193.org
+URL:https://twitch.tv/CastleSuperBeast
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Hey I'm Pat. I stare at videogame. Videogame good. Also cat Elmo\, dog Caboose and lady Peach Saliva here sometime. Enjoy!
+DTEND:20250620T040000Z
+DTSTART:20250619T230000Z
+SUMMARY:PatStaresAt: Raidou Remastered: The Mystery of the Soulless Army
+UID:e6b284e6-f887-4165-b913-6e7d77ce6856@e6b2.org
+URL:https://twitch.tv/PatStaresAt
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Formerly the Super Best Friendcast\, Castle Super Beast is a weekly gaming podcast featuring Woolie and Pat.
+DTEND:20250923T230000Z
+DTSTART:20250923T190000Z
+SUMMARY:CastleSuperBeast: Castle Super Beast Podcast
+UID:e720c9f8-3df6-458e-9d35-a1e21667179b@e720.org
+URL:https://twitch.tv/CastleSuperBeast
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Formerly the Super Best Friendcast\, Castle Super Beast is a weekly gaming podcast featuring Woolie and Pat.
+DTEND:20251021T230000Z
+DTSTART:20251021T190000Z
+SUMMARY:CastleSuperBeast: Castle Super Beast Podcast
+UID:f66830d4-8ac8-4555-bc10-1e4ac3b1d73f@f668.org
+URL:https://twitch.tv/CastleSuperBeast
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Hey I'm Pat. I stare at videogame. Videogame good. Also cat Elmo\, dog Caboose and lady Peach Saliva here sometime. Enjoy!
+DTEND:20250626T230000Z
+DTSTART:20250626T190000Z
+SUMMARY:PatStaresAt: Death Stranding 2: On the Beach
+UID:9b266f8b-c87b-4186-aed1-fa505903028e@9b26.org
+URL:https://twitch.tv/PatStaresAt
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Formerly the Super Best Friendcast\, Castle Super Beast is a weekly gaming podcast featuring Woolie and Pat.
+DTEND:20251028T230000Z
+DTSTART:20251028T190000Z
+SUMMARY:CastleSuperBeast: Castle Super Beast Podcast
+UID:8f29e0c8-a2ed-459e-8022-11e6db4d5b64@8f29.org
+URL:https://twitch.tv/CastleSuperBeast
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Formerly the Super Best Friendcast\, Castle Super Beast is a weekly gaming podcast featuring Woolie and Pat.
+DTEND:20270413T230000Z
+DTSTART:20270413T190000Z
+SUMMARY:CastleSuperBeast: Castle Super Beast Podcast
+UID:a530be4a-c276-4ed7-adc0-43829d8feea3@a530.org
+URL:https://twitch.tv/CastleSuperBeast
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Hey I'm Pat. I stare at videogame. Videogame good. Also cat Elmo\, dog Caboose and lady Peach Saliva here sometime. Enjoy!
+DTEND:20250529T040000Z
+DTSTART:20250528T230000Z
+SUMMARY:PatStaresAt: Pat Stares At Clair Obscur - Expedition 33! WE CONTINUE
+UID:1c31cfac-a2be-4ef6-bd31-46d79e8c1f0c@1c31.org
+URL:https://twitch.tv/PatStaresAt
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Formerly the Super Best Friendcast\, Castle Super Beast is a weekly gaming podcast featuring Woolie and Pat.
+DTEND:20270330T230000Z
+DTSTART:20270330T190000Z
+SUMMARY:CastleSuperBeast: Castle Super Beast Podcast
+UID:bd13c5fd-d48a-464a-9eb8-32861445c90b@bd13.org
+URL:https://twitch.tv/CastleSuperBeast
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Formerly the Super Best Friendcast\, Castle Super Beast is a weekly gaming podcast featuring Woolie and Pat.
+DTEND:20250722T230000Z
+DTSTART:20250722T190000Z
+SUMMARY:CastleSuperBeast: Castle Super Beast Podcast
+UID:e35f3713-1e3d-47d4-b248-ca846ba88d17@e35f.org
+URL:https://twitch.tv/CastleSuperBeast
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Formerly the Super Best Friendcast\, Castle Super Beast is a weekly gaming podcast featuring Woolie and Pat.
+DTEND:20260304T000000Z
+DTSTART:20260303T200000Z
+SUMMARY:CastleSuperBeast: Castle Super Beast Podcast
+UID:d148856a-f736-4161-8402-3775b1a76ced@d148.org
+URL:https://twitch.tv/CastleSuperBeast
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Hey I'm Pat. I stare at videogame. Videogame good. Also cat Elmo\, dog Caboose and lady Peach Saliva here sometime. Enjoy!
+DTEND:20250605T050000Z
+DTSTART:20250604T210000Z
+SUMMARY:PatStaresAt: DELTARUNE CHAPTER 3+4 - FINALLY W/ Pat and Paige! Stay Determined!
+UID:922baf51-253d-4bfc-ac41-6201e137bc99@922b.org
+URL:https://twitch.tv/PatStaresAt
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Formerly the Super Best Friendcast\, Castle Super Beast is a weekly gaming podcast featuring Woolie and Pat.
+DTEND:20250617T230000Z
+DTSTART:20250617T190000Z
+SUMMARY:CastleSuperBeast: Castle Super Beast Podcast
+UID:16a43328-2ebf-46e6-93e1-965d326694c6@16a4.org
+URL:https://twitch.tv/CastleSuperBeast
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Formerly the Super Best Friendcast\, Castle Super Beast is a weekly gaming podcast featuring Woolie and Pat.
+DTEND:20260922T230000Z
+DTSTART:20260922T190000Z
+SUMMARY:CastleSuperBeast: Castle Super Beast Podcast
+UID:b31b234a-5903-4f0e-8d4e-448fe39f6fae@b31b.org
+URL:https://twitch.tv/CastleSuperBeast
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Hey I'm Pat. I stare at videogame. Videogame good. Also cat Elmo\, dog Caboose and lady Peach Saliva here sometime. Enjoy!
+DTEND:20250524T040000Z
+DTSTART:20250523T230000Z
+SUMMARY:PatStaresAt: Pat Stares At Clair Obscur - Expedition 33! WE CONTINUE
+UID:6f5e4ce0-84d9-495f-a87d-6d038730bb8c@6f5e.org
+URL:https://twitch.tv/PatStaresAt
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Formerly the Super Best Friendcast\, Castle Super Beast is a weekly gaming podcast featuring Woolie and Pat.
+DTEND:20251007T230000Z
+DTSTART:20251007T190000Z
+SUMMARY:CastleSuperBeast: Castle Super Beast Podcast
+UID:82fad6a5-2c1c-446f-b408-b4cf51754b3f@82fa.org
+URL:https://twitch.tv/CastleSuperBeast
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Formerly the Super Best Friendcast\, Castle Super Beast is a weekly gaming podcast featuring Woolie and Pat.
+DTEND:20270420T230000Z
+DTSTART:20270420T190000Z
+SUMMARY:CastleSuperBeast: Castle Super Beast Podcast
+UID:d99fc762-965f-4cc1-8c2d-487ecf65920a@d99f.org
+URL:https://twitch.tv/CastleSuperBeast
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Formerly the Super Best Friendcast\, Castle Super Beast is a weekly gaming podcast featuring Woolie and Pat.
+DTEND:20251217T000000Z
+DTSTART:20251216T200000Z
+SUMMARY:CastleSuperBeast: Castle Super Beast Podcast
+UID:dd22a166-4613-4cd2-aa28-28c43394f64c@dd22.org
+URL:https://twitch.tv/CastleSuperBeast
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Formerly the Super Best Friendcast\, Castle Super Beast is a weekly gaming podcast featuring Woolie and Pat.
+DTEND:20250603T230000Z
+DTSTART:20250603T190000Z
+SUMMARY:CastleSuperBeast: Castle Super Beast Podcast
+UID:8b3663d6-07ca-46b3-a1c0-696a3b5dd150@8b36.org
+URL:https://twitch.tv/CastleSuperBeast
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Formerly the Super Best Friendcast\, Castle Super Beast is a weekly gaming podcast featuring Woolie and Pat.
+DTEND:20260121T000000Z
+DTSTART:20260120T200000Z
+SUMMARY:CastleSuperBeast: Castle Super Beast Podcast
+UID:62a639f7-cd9c-40ed-98c7-0e168fa38ca4@62a6.org
+URL:https://twitch.tv/CastleSuperBeast
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Formerly the Super Best Friendcast\, Castle Super Beast is a weekly gaming podcast featuring Woolie and Pat.
+DTEND:20260623T230000Z
+DTSTART:20260623T190000Z
+SUMMARY:CastleSuperBeast: Castle Super Beast Podcast
+UID:ad471e6b-ce52-4cad-9341-de293e2f336a@ad47.org
+URL:https://twitch.tv/CastleSuperBeast
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Hey I'm Pat. I stare at videogame. Videogame good. Also cat Elmo\, dog Caboose and lady Peach Saliva here sometime. Enjoy!
+DTEND:20250607T230000Z
+DTSTART:20250607T190000Z
+SUMMARY:PatStaresAt: PC Games Show 
+UID:378f1899-2216-462d-aaff-861039e1aa3e@378f.org
+URL:https://twitch.tv/PatStaresAt
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Formerly the Super Best Friendcast\, Castle Super Beast is a weekly gaming podcast featuring Woolie and Pat.
+DTEND:20250701T230000Z
+DTSTART:20250701T190000Z
+SUMMARY:CastleSuperBeast: Castle Super Beast Podcast
+UID:049fbec4-86c6-42c2-a626-fb8c1b2149c4@049f.org
+URL:https://twitch.tv/CastleSuperBeast
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Hey I'm Pat. I stare at videogame. Videogame good. Also cat Elmo\, dog Caboose and lady Peach Saliva here sometime. Enjoy!
+DTEND:20250906T040000Z
+DTSTART:20250905T230000Z
+SUMMARY:PatStaresAt: Daemon X Machina: Titanic Scion
+UID:c9d27663-6f56-4dd1-a63e-ebc2c7861328@c9d2.org
+URL:https://twitch.tv/PatStaresAt
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Formerly the Super Best Friendcast\, Castle Super Beast is a weekly gaming podcast featuring Woolie and Pat.
+DTEND:20250826T230000Z
+DTSTART:20250826T190000Z
+SUMMARY:CastleSuperBeast: Castle Super Beast Podcast
+UID:9e08e457-e2e9-4812-815d-55d18444e14f@9e08.org
+URL:https://twitch.tv/CastleSuperBeast
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Formerly the Super Best Friendcast\, Castle Super Beast is a weekly gaming podcast featuring Woolie and Pat.
+DTEND:20251105T000000Z
+DTSTART:20251104T200000Z
+SUMMARY:CastleSuperBeast: Castle Super Beast Podcast
+UID:2159cd1a-0ea2-4e72-85a0-8cf83c369673@2159.org
+URL:https://twitch.tv/CastleSuperBeast
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Formerly the Super Best Friendcast\, Castle Super Beast is a weekly gaming podcast featuring Woolie and Pat.
+DTEND:20250930T230000Z
+DTSTART:20250930T190000Z
+SUMMARY:CastleSuperBeast: Castle Super Beast Podcast
+UID:88b5810c-8f8e-43fe-94f8-cbdb51e264a7@88b5.org
+URL:https://twitch.tv/CastleSuperBeast
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Formerly the Super Best Friendcast\, Castle Super Beast is a weekly gaming podcast featuring Woolie and Pat.
+DTEND:20270303T000000Z
+DTSTART:20270302T200000Z
+SUMMARY:CastleSuperBeast: Castle Super Beast Podcast
+UID:1b325df6-7fae-485e-91b2-431cf20876fa@1b32.org
+URL:https://twitch.tv/CastleSuperBeast
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Formerly the Super Best Friendcast\, Castle Super Beast is a weekly gaming podcast featuring Woolie and Pat.
+DTEND:20250624T230000Z
+DTSTART:20250624T190000Z
+SUMMARY:CastleSuperBeast: Castle Super Beast Podcast
+UID:8a6a213a-3c74-48b2-a10f-b2e13bc80581@8a6a.org
+URL:https://twitch.tv/CastleSuperBeast
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Formerly the Super Best Friendcast\, Castle Super Beast is a weekly gaming podcast featuring Woolie and Pat.
+DTEND:20260128T000000Z
+DTSTART:20260127T200000Z
+SUMMARY:CastleSuperBeast: Castle Super Beast Podcast
+UID:1a4acf6c-181a-4d3a-9d4f-cff4e32af2bc@1a4a.org
+URL:https://twitch.tv/CastleSuperBeast
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Formerly the Super Best Friendcast\, Castle Super Beast is a weekly gaming podcast featuring Woolie and Pat.
+DTEND:20260317T230000Z
+DTSTART:20260317T190000Z
+SUMMARY:CastleSuperBeast: Castle Super Beast Podcast
+UID:eef38a8a-73ed-4579-b2f4-b5b9ca55a469@eef3.org
+URL:https://twitch.tv/CastleSuperBeast
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Hey I'm Pat. I stare at videogame. Videogame good. Also cat Elmo\, dog Caboose and lady Peach Saliva here sometime. Enjoy!
+DTEND:20250603T230000Z
+DTSTART:20250603T190000Z
+SUMMARY:PatStaresAt: Pat Stares At The Castle Super Beast Podcast Over At Twitch.tv/CastleSuperBeast
+UID:be59aaf1-a717-46e4-9ac1-ed6a7310a688@be59.org
+URL:https://twitch.tv/PatStaresAt
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Formerly the Super Best Friendcast\, Castle Super Beast is a weekly gaming podcast featuring Woolie and Pat.
+DTEND:20260728T230000Z
+DTSTART:20260728T190000Z
+SUMMARY:CastleSuperBeast: Castle Super Beast Podcast
+UID:ed259c71-6858-4be5-bb83-86fb183bc7db@ed25.org
+URL:https://twitch.tv/CastleSuperBeast
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Formerly the Super Best Friendcast\, Castle Super Beast is a weekly gaming podcast featuring Woolie and Pat.
+DTEND:20261230T000000Z
+DTSTART:20261229T200000Z
+SUMMARY:CastleSuperBeast: Castle Super Beast Podcast
+UID:d4dea221-b135-4773-825f-8b53c3a6af04@d4de.org
+URL:https://twitch.tv/CastleSuperBeast
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Formerly the Super Best Friendcast\, Castle Super Beast is a weekly gaming podcast featuring Woolie and Pat.
+DTEND:20260204T000000Z
+DTSTART:20260203T200000Z
+SUMMARY:CastleSuperBeast: Castle Super Beast Podcast
+UID:3ccb3f23-1cb0-4688-9183-e3680f77eecd@3ccb.org
+URL:https://twitch.tv/CastleSuperBeast
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Formerly the Super Best Friendcast\, Castle Super Beast is a weekly gaming podcast featuring Woolie and Pat.
+DTEND:20270323T230000Z
+DTSTART:20270323T190000Z
+SUMMARY:CastleSuperBeast: Castle Super Beast Podcast
+UID:e5b48338-1a9f-4810-941a-13aca39764ed@e5b4.org
+URL:https://twitch.tv/CastleSuperBeast
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Formerly the Super Best Friendcast\, Castle Super Beast is a weekly gaming podcast featuring Woolie and Pat.
+DTEND:20260218T000000Z
+DTSTART:20260217T200000Z
+SUMMARY:CastleSuperBeast: Castle Super Beast Podcast
+UID:2d489f60-217d-4255-9458-06ee8c7ec026@2d48.org
+URL:https://twitch.tv/CastleSuperBeast
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Formerly the Super Best Friendcast\, Castle Super Beast is a weekly gaming podcast featuring Woolie and Pat.
+DTEND:20261006T230000Z
+DTSTART:20261006T190000Z
+SUMMARY:CastleSuperBeast: Castle Super Beast Podcast
+UID:82714f04-8bc9-4df2-adfb-f8e347ef62b8@8271.org
+URL:https://twitch.tv/CastleSuperBeast
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Formerly the Super Best Friendcast\, Castle Super Beast is a weekly gaming podcast featuring Woolie and Pat.
+DTEND:20260811T230000Z
+DTSTART:20260811T190000Z
+SUMMARY:CastleSuperBeast: Castle Super Beast Podcast
+UID:ac1f9847-ca0c-4b90-8c24-7c45397f982b@ac1f.org
+URL:https://twitch.tv/CastleSuperBeast
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Formerly the Super Best Friendcast\, Castle Super Beast is a weekly gaming podcast featuring Woolie and Pat.
+DTEND:20270106T000000Z
+DTSTART:20270105T200000Z
+SUMMARY:CastleSuperBeast: Castle Super Beast Podcast
+UID:d67b6777-c01e-41ca-857d-3bc562c58d95@d67b.org
+URL:https://twitch.tv/CastleSuperBeast
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Formerly the Super Best Friendcast\, Castle Super Beast is a weekly gaming podcast featuring Woolie and Pat.
+DTEND:20260512T230000Z
+DTSTART:20260512T190000Z
+SUMMARY:CastleSuperBeast: Castle Super Beast Podcast
+UID:fc392a00-f2c4-42a7-bdd4-0513e2c7d665@fc39.org
+URL:https://twitch.tv/CastleSuperBeast
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Formerly the Super Best Friendcast\, Castle Super Beast is a weekly gaming podcast featuring Woolie and Pat.
+DTEND:20270210T000000Z
+DTSTART:20270209T200000Z
+SUMMARY:CastleSuperBeast: Castle Super Beast Podcast
+UID:736d6001-11c0-4b2a-b6d6-6c0a43d7c4a0@736d.org
+URL:https://twitch.tv/CastleSuperBeast
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Formerly the Super Best Friendcast\, Castle Super Beast is a weekly gaming podcast featuring Woolie and Pat.
+DTEND:20270224T000000Z
+DTSTART:20270223T200000Z
+SUMMARY:CastleSuperBeast: Castle Super Beast Podcast
+UID:773f8379-5795-4128-a031-266a1f21b24b@773f.org
+URL:https://twitch.tv/CastleSuperBeast
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Formerly the Super Best Friendcast\, Castle Super Beast is a weekly gaming podcast featuring Woolie and Pat.
+DTEND:20260310T230000Z
+DTSTART:20260310T190000Z
+SUMMARY:CastleSuperBeast: Castle Super Beast Podcast
+UID:fd581bcf-437a-45c4-bb8c-868458923ca7@fd58.org
+URL:https://twitch.tv/CastleSuperBeast
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Formerly the Super Best Friendcast\, Castle Super Beast is a weekly gaming podcast featuring Woolie and Pat.
 DTEND:20260114T000000Z
 DTSTART:20260113T200000Z
 SUMMARY:CastleSuperBeast: Castle Super Beast Podcast
-UID:4fda7b77-eaf7-419e-ab8d-3bdf9c20513c@4fda.org
+UID:bcb47bc0-9a35-4eaf-bf2d-bef6d6b42d61@bcb4.org
+URL:https://twitch.tv/CastleSuperBeast
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Formerly the Super Best Friendcast\, Castle Super Beast is a weekly gaming podcast featuring Woolie and Pat.
+DTEND:20270120T000000Z
+DTSTART:20270119T200000Z
+SUMMARY:CastleSuperBeast: Castle Super Beast Podcast
+UID:adffa192-f9be-465e-af8a-296663dee41e@adff.org
+URL:https://twitch.tv/CastleSuperBeast
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Formerly the Super Best Friendcast\, Castle Super Beast is a weekly gaming podcast featuring Woolie and Pat.
+DTEND:20260407T230000Z
+DTSTART:20260407T190000Z
+SUMMARY:CastleSuperBeast: Castle Super Beast Podcast
+UID:1715633b-06dc-42f2-88cf-cca7c33d9402@1715.org
+URL:https://twitch.tv/CastleSuperBeast
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Hey I'm Pat. I stare at videogame. Videogame good. Also cat Elmo\, dog Caboose and lady Peach Saliva here sometime. Enjoy!
+DTEND:20250609T210000Z
+DTSTART:20250609T200000Z
+SUMMARY:PatStaresAt: Nintendo Switch 2 Welcome Tour
+UID:05d30c6a-ed87-4982-a059-280022ef5f17@05d3.org
+URL:https://twitch.tv/PatStaresAt
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Hey I'm Pat. I stare at videogame. Videogame good. Also cat Elmo\, dog Caboose and lady Peach Saliva here sometime. Enjoy!
+DTEND:20250726T040000Z
+DTSTART:20250725T230000Z
+SUMMARY:PatStaresAt: Wild Hearts S
+UID:df4c3d53-235d-4fec-bc54-415f3ec6a271@df4c.org
+URL:https://twitch.tv/PatStaresAt
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Formerly the Super Best Friendcast\, Castle Super Beast is a weekly gaming podcast featuring Woolie and Pat.
+DTEND:20260804T230000Z
+DTSTART:20260804T190000Z
+SUMMARY:CastleSuperBeast: Castle Super Beast Podcast
+UID:99dd1749-5ac3-48c3-837e-6a65f26f2e9a@99dd.org
+URL:https://twitch.tv/CastleSuperBeast
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Formerly the Super Best Friendcast\, Castle Super Beast is a weekly gaming podcast featuring Woolie and Pat.
+DTEND:20260609T230000Z
+DTSTART:20260609T190000Z
+SUMMARY:CastleSuperBeast: Castle Super Beast Podcast
+UID:8cc61df3-a4e3-46e9-858e-233bdb40bf89@8cc6.org
+URL:https://twitch.tv/CastleSuperBeast
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Formerly the Super Best Friendcast\, Castle Super Beast is a weekly gaming podcast featuring Woolie and Pat.
+DTEND:20260414T230000Z
+DTSTART:20260414T190000Z
+SUMMARY:CastleSuperBeast: Castle Super Beast Podcast
+UID:9634e6a1-399d-406e-91e5-6871cf8c2606@9634.org
+URL:https://twitch.tv/CastleSuperBeast
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Formerly the Super Best Friendcast\, Castle Super Beast is a weekly gaming podcast featuring Woolie and Pat.
+DTEND:20270113T000000Z
+DTSTART:20270112T200000Z
+SUMMARY:CastleSuperBeast: Castle Super Beast Podcast
+UID:338b639b-fea7-42e1-a6ab-7de1c9af9ac1@338b.org
+URL:https://twitch.tv/CastleSuperBeast
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Hey I'm Pat. I stare at videogame. Videogame good. Also cat Elmo\, dog Caboose and lady Peach Saliva here sometime. Enjoy!
+DTEND:20250526T040000Z
+DTSTART:20250525T230000Z
+SUMMARY:PatStaresAt: Pat And Paige RETURN To DeltaRune Chapter 2!
+UID:e7fd758d-8f48-4839-9059-d31e86731dda@e7fd.org
+URL:https://twitch.tv/PatStaresAt
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Formerly the Super Best Friendcast\, Castle Super Beast is a weekly gaming podcast featuring Woolie and Pat.
+DTEND:20261013T230000Z
+DTSTART:20261013T190000Z
+SUMMARY:CastleSuperBeast: Castle Super Beast Podcast
+UID:0d33d86e-9118-4ed4-b9cf-9cfede171293@0d33.org
+URL:https://twitch.tv/CastleSuperBeast
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Formerly the Super Best Friendcast\, Castle Super Beast is a weekly gaming podcast featuring Woolie and Pat.
+DTEND:20261104T000000Z
+DTSTART:20261103T200000Z
+SUMMARY:CastleSuperBeast: Castle Super Beast Podcast
+UID:6c107898-a8c2-4027-8047-dfaefa0f6ba9@6c10.org
+URL:https://twitch.tv/CastleSuperBeast
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Formerly the Super Best Friendcast\, Castle Super Beast is a weekly gaming podcast featuring Woolie and Pat.
+DTEND:20250708T230000Z
+DTSTART:20250708T190000Z
+SUMMARY:CastleSuperBeast: Castle Super Beast Podcast
+UID:01a2530c-6873-4ede-86f9-c49d3e9fcce1@01a2.org
+URL:https://twitch.tv/CastleSuperBeast
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Formerly the Super Best Friendcast\, Castle Super Beast is a weekly gaming podcast featuring Woolie and Pat.
+DTEND:20260602T230000Z
+DTSTART:20260602T190000Z
+SUMMARY:CastleSuperBeast: Castle Super Beast Podcast
+UID:9a3c540a-6250-4914-8fc7-c66ceab68397@9a3c.org
+URL:https://twitch.tv/CastleSuperBeast
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Formerly the Super Best Friendcast\, Castle Super Beast is a weekly gaming podcast featuring Woolie and Pat.
+DTEND:20261111T000000Z
+DTSTART:20261110T200000Z
+SUMMARY:CastleSuperBeast: Castle Super Beast Podcast
+UID:48c8d4ad-08be-4333-81fb-d882210218ca@48c8.org
+URL:https://twitch.tv/CastleSuperBeast
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Hey I'm Pat. I stare at videogame. Videogame good. Also cat Elmo\, dog Caboose and lady Peach Saliva here sometime. Enjoy!
+DTEND:20250609T220000Z
+DTSTART:20250609T210000Z
+SUMMARY:PatStaresAt: Breath of the Wild Switch 2
+UID:aff85183-e15c-496f-8562-e721db5a71bd@aff8.org
+URL:https://twitch.tv/PatStaresAt
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Formerly the Super Best Friendcast\, Castle Super Beast is a weekly gaming podcast featuring Woolie and Pat.
+DTEND:20260721T230000Z
+DTSTART:20260721T190000Z
+SUMMARY:CastleSuperBeast: Castle Super Beast Podcast
+UID:03d1a655-f130-4a59-ba5b-22298abe2808@03d1.org
+URL:https://twitch.tv/CastleSuperBeast
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Formerly the Super Best Friendcast\, Castle Super Beast is a weekly gaming podcast featuring Woolie and Pat.
+DTEND:20261216T000000Z
+DTSTART:20261215T200000Z
+SUMMARY:CastleSuperBeast: Castle Super Beast Podcast
+UID:1a2917da-8343-4f77-bea3-42d9e1189c7e@1a29.org
+URL:https://twitch.tv/CastleSuperBeast
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Hey I'm Pat. I stare at videogame. Videogame good. Also cat Elmo\, dog Caboose and lady Peach Saliva here sometime. Enjoy!
+DTEND:20250531T230000Z
+DTSTART:20250531T190000Z
+SUMMARY:PatStaresAt: Elden Ring: Nightreign w/ ReggieMTL And WoolieVersus!
+UID:85f90be9-5dd0-46c3-8609-2652950b5e38@85f9.org
+URL:https://twitch.tv/PatStaresAt
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Formerly the Super Best Friendcast\, Castle Super Beast is a weekly gaming podcast featuring Woolie and Pat.
+DTEND:20260107T000000Z
+DTSTART:20260106T200000Z
+SUMMARY:CastleSuperBeast: Castle Super Beast Podcast
+UID:c0d6f432-43f0-4f1e-877e-3769febc97ea@c0d6.org
+URL:https://twitch.tv/CastleSuperBeast
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Formerly the Super Best Friendcast\, Castle Super Beast is a weekly gaming podcast featuring Woolie and Pat.
+DTEND:20260428T230000Z
+DTSTART:20260428T190000Z
+SUMMARY:CastleSuperBeast: Castle Super Beast Podcast
+UID:ebc66660-7fe4-4bda-960a-a512e183128d@ebc6.org
+URL:https://twitch.tv/CastleSuperBeast
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Formerly the Super Best Friendcast\, Castle Super Beast is a weekly gaming podcast featuring Woolie and Pat.
+DTEND:20250805T230000Z
+DTSTART:20250805T190000Z
+SUMMARY:CastleSuperBeast: Castle Super Beast Podcast
+UID:89b77e73-e246-4739-ae76-f9a13b74e543@89b7.org
+URL:https://twitch.tv/CastleSuperBeast
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Formerly the Super Best Friendcast\, Castle Super Beast is a weekly gaming podcast featuring Woolie and Pat.
+DTEND:20260519T230000Z
+DTSTART:20260519T190000Z
+SUMMARY:CastleSuperBeast: Castle Super Beast Podcast
+UID:42a27869-1895-4c5f-bd50-874d118e83ed@42a2.org
+URL:https://twitch.tv/CastleSuperBeast
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Formerly the Super Best Friendcast\, Castle Super Beast is a weekly gaming podcast featuring Woolie and Pat.
+DTEND:20250527T230000Z
+DTSTART:20250527T190000Z
+SUMMARY:CastleSuperBeast: Castle Super Beast Podcast
+UID:28cdcbb8-eea8-45d3-af41-4f1d7d92ae4b@28cd.org
+URL:https://twitch.tv/CastleSuperBeast
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Formerly the Super Best Friendcast\, Castle Super Beast is a weekly gaming podcast featuring Woolie and Pat.
+DTEND:20260324T230000Z
+DTSTART:20260324T190000Z
+SUMMARY:CastleSuperBeast: Castle Super Beast Podcast
+UID:2d5cc77a-99f6-41fd-bc5b-5109b0562e25@2d5c.org
+URL:https://twitch.tv/CastleSuperBeast
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Formerly the Super Best Friendcast\, Castle Super Beast is a weekly gaming podcast featuring Woolie and Pat.
+DTEND:20270203T000000Z
+DTSTART:20270202T200000Z
+SUMMARY:CastleSuperBeast: Castle Super Beast Podcast
+UID:ac96a2fe-bb25-4ea8-ac54-c23d3fbe9bf6@ac96.org
+URL:https://twitch.tv/CastleSuperBeast
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Formerly the Super Best Friendcast\, Castle Super Beast is a weekly gaming podcast featuring Woolie and Pat.
+DTEND:20250715T230000Z
+DTSTART:20250715T190000Z
+SUMMARY:CastleSuperBeast: Castle Super Beast Podcast
+UID:fa958071-e0a5-4df2-8db1-722f9443b043@fa95.org
+URL:https://twitch.tv/CastleSuperBeast
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Formerly the Super Best Friendcast\, Castle Super Beast is a weekly gaming podcast featuring Woolie and Pat.
+DTEND:20250916T230000Z
+DTSTART:20250916T190000Z
+SUMMARY:CastleSuperBeast: Castle Super Beast Podcast
+UID:471c9e40-741e-4462-9dd8-c7dc48fb74a1@471c.org
+URL:https://twitch.tv/CastleSuperBeast
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Formerly the Super Best Friendcast\, Castle Super Beast is a weekly gaming podcast featuring Woolie and Pat.
+DTEND:20251210T000000Z
+DTSTART:20251209T200000Z
+SUMMARY:CastleSuperBeast: Castle Super Beast Podcast
+UID:0b691fa2-131e-41e4-8248-dec254ba5765@0b69.org
+URL:https://twitch.tv/CastleSuperBeast
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Formerly the Super Best Friendcast\, Castle Super Beast is a weekly gaming podcast featuring Woolie and Pat.
+DTEND:20250812T230000Z
+DTSTART:20250812T190000Z
+SUMMARY:CastleSuperBeast: Castle Super Beast Podcast
+UID:453801e0-c54d-4764-8b14-d09b3770c6e1@4538.org
+URL:https://twitch.tv/CastleSuperBeast
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Hey I'm Pat. I stare at videogame. Videogame good. Also cat Elmo\, dog Caboose and lady Peach Saliva here sometime. Enjoy!
+DTEND:20250609T190000Z
+DTSTART:20250609T180000Z
+SUMMARY:PatStaresAt: Mario Kart World
+UID:03121fb9-7352-49f1-8e2f-32d323ec3798@0312.org
+URL:https://twitch.tv/PatStaresAt
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Formerly the Super Best Friendcast\, Castle Super Beast is a weekly gaming podcast featuring Woolie and Pat.
+DTEND:20270310T000000Z
+DTSTART:20270309T200000Z
+SUMMARY:CastleSuperBeast: Castle Super Beast Podcast
+UID:d66058f5-8c8e-4137-bf79-d486a9e3f798@d660.org
+URL:https://twitch.tv/CastleSuperBeast
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Formerly the Super Best Friendcast\, Castle Super Beast is a weekly gaming podcast featuring Woolie and Pat.
+DTEND:20251112T000000Z
+DTSTART:20251111T200000Z
+SUMMARY:CastleSuperBeast: Castle Super Beast Podcast
+UID:5ce15a25-3d0a-4212-89fe-bc7b1d567ded@5ce1.org
+URL:https://twitch.tv/CastleSuperBeast
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Hey I'm Pat. I stare at videogame. Videogame good. Also cat Elmo\, dog Caboose and lady Peach Saliva here sometime. Enjoy!
+DTEND:20250527T183000Z
+DTSTART:20250527T153000Z
+SUMMARY:PatStaresAt: Tiny Build Indie Showcase 
+UID:9c484fd3-91c5-47dc-bac2-a8103da179f4@9c48.org
+URL:https://twitch.tv/PatStaresAt
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Formerly the Super Best Friendcast\, Castle Super Beast is a weekly gaming podcast featuring Woolie and Pat.
+DTEND:20260901T230000Z
+DTSTART:20260901T190000Z
+SUMMARY:CastleSuperBeast: Castle Super Beast Podcast
+UID:17eb768f-e166-42cf-aa4a-753235c912ab@17eb.org
+URL:https://twitch.tv/CastleSuperBeast
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Formerly the Super Best Friendcast\, Castle Super Beast is a weekly gaming podcast featuring Woolie and Pat.
+DTEND:20260616T230000Z
+DTSTART:20260616T190000Z
+SUMMARY:CastleSuperBeast: Castle Super Beast Podcast
+UID:3a73d81d-522a-445f-9ebd-8a0159d72e04@3a73.org
+URL:https://twitch.tv/CastleSuperBeast
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Hey I'm Pat. I stare at videogame. Videogame good. Also cat Elmo\, dog Caboose and lady Peach Saliva here sometime. Enjoy!
+DTEND:20250829T230000Z
+DTSTART:20250829T190000Z
+SUMMARY:PatStaresAt: Shinobi: Art of Vengeance
+UID:4d6b2187-92b3-463b-9caf-8e0d08b5b526@4d6b.org
+URL:https://twitch.tv/PatStaresAt
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Formerly the Super Best Friendcast\, Castle Super Beast is a weekly gaming podcast featuring Woolie and Pat.
+DTEND:20260526T230000Z
+DTSTART:20260526T190000Z
+SUMMARY:CastleSuperBeast: Castle Super Beast Podcast
+UID:97c8b561-eb8c-45da-8f24-6d81cacd9089@97c8.org
+URL:https://twitch.tv/CastleSuperBeast
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Hey I'm Pat. I stare at videogame. Videogame good. Also cat Elmo\, dog Caboose and lady Peach Saliva here sometime. Enjoy!
+DTEND:20250609T230000Z
+DTSTART:20250609T220000Z
+SUMMARY:PatStaresAt: Tears of the Kingdom Switch 2
+UID:c35cd482-cbf1-4f9a-9170-5d743db91445@c35c.org
+URL:https://twitch.tv/PatStaresAt
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Formerly the Super Best Friendcast\, Castle Super Beast is a weekly gaming podcast featuring Woolie and Pat.
+DTEND:20260714T230000Z
+DTSTART:20260714T190000Z
+SUMMARY:CastleSuperBeast: Castle Super Beast Podcast
+UID:39a2ff7d-e589-4c3f-8bef-e316eb8a527e@39a2.org
+URL:https://twitch.tv/CastleSuperBeast
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Hey I'm Pat. I stare at videogame. Videogame good. Also cat Elmo\, dog Caboose and lady Peach Saliva here sometime. Enjoy!
+DTEND:20250609T200000Z
+DTSTART:20250609T190000Z
+SUMMARY:PatStaresAt: Metroid Prime 4 Beyond 
+UID:07e2d700-6d4f-4ad2-9a42-8a92994a47cd@07e2.org
+URL:https://twitch.tv/PatStaresAt
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Formerly the Super Best Friendcast\, Castle Super Beast is a weekly gaming podcast featuring Woolie and Pat.
+DTEND:20260211T000000Z
+DTSTART:20260210T200000Z
+SUMMARY:CastleSuperBeast: Castle Super Beast Podcast
+UID:259ad1fe-4f1b-44e7-8808-c42a90581710@259a.org
+URL:https://twitch.tv/CastleSuperBeast
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Formerly the Super Best Friendcast\, Castle Super Beast is a weekly gaming podcast featuring Woolie and Pat.
+DTEND:20250610T230000Z
+DTSTART:20250610T190000Z
+SUMMARY:CastleSuperBeast: Castle Super Beast Podcast
+UID:435d0c65-91af-4a7e-ae10-716f099b6c03@435d.org
+URL:https://twitch.tv/CastleSuperBeast
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Formerly the Super Best Friendcast\, Castle Super Beast is a weekly gaming podcast featuring Woolie and Pat.
+DTEND:20270406T230000Z
+DTSTART:20270406T190000Z
+SUMMARY:CastleSuperBeast: Castle Super Beast Podcast
+UID:7d265c91-cfed-45d2-9a98-ffb296be00ea@7d26.org
+URL:https://twitch.tv/CastleSuperBeast
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Hey I'm Pat. I stare at videogame. Videogame good. Also cat Elmo\, dog Caboose and lady Peach Saliva here sometime. Enjoy!
+DTEND:20250531T040000Z
+DTSTART:20250530T230000Z
+SUMMARY:PatStaresAt: Elden Ring: Nightreign
+UID:22b252a0-f7d3-487d-9dfd-9fa5155b0e4e@22b2.org
+URL:https://twitch.tv/PatStaresAt
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Formerly the Super Best Friendcast\, Castle Super Beast is a weekly gaming podcast featuring Woolie and Pat.
+DTEND:20260908T230000Z
+DTSTART:20260908T190000Z
+SUMMARY:CastleSuperBeast: Castle Super Beast Podcast
+UID:79061a41-c41a-4c9f-8de0-86a4f851b949@7906.org
+URL:https://twitch.tv/CastleSuperBeast
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Formerly the Super Best Friendcast\, Castle Super Beast is a weekly gaming podcast featuring Woolie and Pat.
+DTEND:20250909T230000Z
+DTSTART:20250909T190000Z
+SUMMARY:CastleSuperBeast: Castle Super Beast Podcast
+UID:1aced8ea-9ddd-4d1c-9271-5190a3f4e083@1ace.org
+URL:https://twitch.tv/CastleSuperBeast
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Formerly the Super Best Friendcast\, Castle Super Beast is a weekly gaming podcast featuring Woolie and Pat.
+DTEND:20261202T000000Z
+DTSTART:20261201T200000Z
+SUMMARY:CastleSuperBeast: Castle Super Beast Podcast
+UID:45d4cec2-48a8-492a-9115-082a0d34de49@45d4.org
+URL:https://twitch.tv/CastleSuperBeast
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Formerly the Super Best Friendcast\, Castle Super Beast is a weekly gaming podcast featuring Woolie and Pat.
+DTEND:20250902T230000Z
+DTSTART:20250902T190000Z
+SUMMARY:CastleSuperBeast: Castle Super Beast Podcast
+UID:ba37d41b-d77d-4b52-9f26-efccc98891ad@ba37.org
+URL:https://twitch.tv/CastleSuperBeast
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Formerly the Super Best Friendcast\, Castle Super Beast is a weekly gaming podcast featuring Woolie and Pat.
+DTEND:20261118T000000Z
+DTSTART:20261117T200000Z
+SUMMARY:CastleSuperBeast: Castle Super Beast Podcast
+UID:1d602216-ea9e-43e1-8058-80290a7ed23d@1d60.org
+URL:https://twitch.tv/CastleSuperBeast
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Hey I'm Pat. I stare at videogame. Videogame good. Also cat Elmo\, dog Caboose and lady Peach Saliva here sometime. Enjoy!
+DTEND:20250602T040000Z
+DTSTART:20250601T230000Z
+SUMMARY:PatStaresAt: Elden Ring: Nightreign
+UID:d0bfdcb9-6a39-41d7-ab7e-045e8dd4278f@d0bf.org
+URL:https://twitch.tv/PatStaresAt
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Hey I'm Pat. I stare at videogame. Videogame good. Also cat Elmo\, dog Caboose and lady Peach Saliva here sometime. Enjoy!
+DTEND:20250527T040000Z
+DTSTART:20250526T230000Z
+SUMMARY:PatStaresAt: Pat Stares At Clair Obscur - Expedition 33! WE CONTINUE + Pat Vs SPAMTON Deltarune
+UID:313b9ba2-3b45-45d2-82de-674bdbe24697@313b.org
+URL:https://twitch.tv/PatStaresAt
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Formerly the Super Best Friendcast\, Castle Super Beast is a weekly gaming podcast featuring Woolie and Pat.
+DTEND:20251126T000000Z
+DTSTART:20251125T200000Z
+SUMMARY:CastleSuperBeast: Castle Super Beast Podcast
+UID:8d1e3ad1-5302-4e78-b45e-46d178ceb9e9@8d1e.org
+URL:https://twitch.tv/CastleSuperBeast
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Formerly the Super Best Friendcast\, Castle Super Beast is a weekly gaming podcast featuring Woolie and Pat.
+DTEND:20260331T230000Z
+DTSTART:20260331T190000Z
+SUMMARY:CastleSuperBeast: Castle Super Beast Podcast
+UID:21dff604-fb4e-434f-baf3-f3c63d529ae3@21df.org
+URL:https://twitch.tv/CastleSuperBeast
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Formerly the Super Best Friendcast\, Castle Super Beast is a weekly gaming podcast featuring Woolie and Pat.
+DTEND:20260915T230000Z
+DTSTART:20260915T190000Z
+SUMMARY:CastleSuperBeast: Castle Super Beast Podcast
+UID:1532f311-c24f-4265-bd76-eff17f29a54b@1532.org
+URL:https://twitch.tv/CastleSuperBeast
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Hey I'm Pat. I stare at videogame. Videogame good. Also cat Elmo\, dog Caboose and lady Peach Saliva here sometime. Enjoy!
+DTEND:20250828T230000Z
+DTSTART:20250828T190000Z
+SUMMARY:PatStaresAt: Metal Gear Solid Δ: Snake Eater
+UID:eb51655d-4cf2-4465-ae18-2886c77620d7@eb51.org
+URL:https://twitch.tv/PatStaresAt
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Formerly the Super Best Friendcast\, Castle Super Beast is a weekly gaming podcast featuring Woolie and Pat.
+DTEND:20250729T230000Z
+DTSTART:20250729T190000Z
+SUMMARY:CastleSuperBeast: Castle Super Beast Podcast
+UID:0137116f-7be8-4f5c-b52f-a045e39c29be@0137.org
+URL:https://twitch.tv/CastleSuperBeast
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Formerly the Super Best Friendcast\, Castle Super Beast is a weekly gaming podcast featuring Woolie and Pat.
+DTEND:20260225T000000Z
+DTSTART:20260224T200000Z
+SUMMARY:CastleSuperBeast: Castle Super Beast Podcast
+UID:c6735827-0363-4d94-a714-11ee359bf332@c673.org
+URL:https://twitch.tv/CastleSuperBeast
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Formerly the Super Best Friendcast\, Castle Super Beast is a weekly gaming podcast featuring Woolie and Pat.
+DTEND:20261027T230000Z
+DTSTART:20261027T190000Z
+SUMMARY:CastleSuperBeast: Castle Super Beast Podcast
+UID:e4f8e279-5128-483f-987d-453db4a17d79@e4f8.org
+URL:https://twitch.tv/CastleSuperBeast
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Formerly the Super Best Friendcast\, Castle Super Beast is a weekly gaming podcast featuring Woolie and Pat.
+DTEND:20251119T000000Z
+DTSTART:20251118T200000Z
+SUMMARY:CastleSuperBeast: Castle Super Beast Podcast
+UID:0ef00202-aa70-49a4-b095-d13f39cda881@0ef0.org
+URL:https://twitch.tv/CastleSuperBeast
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Formerly the Super Best Friendcast\, Castle Super Beast is a weekly gaming podcast featuring Woolie and Pat.
+DTEND:20270217T000000Z
+DTSTART:20270216T200000Z
+SUMMARY:CastleSuperBeast: Castle Super Beast Podcast
+UID:319a15d4-bdd3-453e-9c34-032458641b07@319a.org
+URL:https://twitch.tv/CastleSuperBeast
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Formerly the Super Best Friendcast\, Castle Super Beast is a weekly gaming podcast featuring Woolie and Pat.
+DTEND:20261223T000000Z
+DTSTART:20261222T200000Z
+SUMMARY:CastleSuperBeast: Castle Super Beast Podcast
+UID:02c0da59-4adf-499b-84ef-651cba3f8ef0@02c0.org
+URL:https://twitch.tv/CastleSuperBeast
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Formerly the Super Best Friendcast\, Castle Super Beast is a weekly gaming podcast featuring Woolie and Pat.
+DTEND:20261209T000000Z
+DTSTART:20261208T200000Z
+SUMMARY:CastleSuperBeast: Castle Super Beast Podcast
+UID:799c58d0-93d1-4ff5-bca0-4d917bf3ff28@799c.org
+URL:https://twitch.tv/CastleSuperBeast
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Formerly the Super Best Friendcast\, Castle Super Beast is a weekly gaming podcast featuring Woolie and Pat.
+DTEND:20270316T230000Z
+DTSTART:20270316T190000Z
+SUMMARY:CastleSuperBeast: Castle Super Beast Podcast
+UID:24610812-6088-4508-a468-05e4c0db099d@2461.org
+URL:https://twitch.tv/CastleSuperBeast
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Formerly the Super Best Friendcast\, Castle Super Beast is a weekly gaming podcast featuring Woolie and Pat.
+DTEND:20260505T230000Z
+DTSTART:20260505T190000Z
+SUMMARY:CastleSuperBeast: Castle Super Beast Podcast
+UID:5d2907d8-51e6-4247-b020-00e1153e29ec@5d29.org
+URL:https://twitch.tv/CastleSuperBeast
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Formerly the Super Best Friendcast\, Castle Super Beast is a weekly gaming podcast featuring Woolie and Pat.
+DTEND:20251224T000000Z
+DTSTART:20251223T200000Z
+SUMMARY:CastleSuperBeast: Castle Super Beast Podcast
+UID:d4528a37-9cd8-45c7-a72e-206a2a26998c@d452.org
+URL:https://twitch.tv/CastleSuperBeast
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Formerly the Super Best Friendcast\, Castle Super Beast is a weekly gaming podcast featuring Woolie and Pat.
+DTEND:20251203T000000Z
+DTSTART:20251202T200000Z
+SUMMARY:CastleSuperBeast: Castle Super Beast Podcast
+UID:2e5702e9-da08-400b-993f-094721329a8d@2e57.org
+URL:https://twitch.tv/CastleSuperBeast
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Formerly the Super Best Friendcast\, Castle Super Beast is a weekly gaming podcast featuring Woolie and Pat.
+DTEND:20260929T230000Z
+DTSTART:20260929T190000Z
+SUMMARY:CastleSuperBeast: Castle Super Beast Podcast
+UID:6682210f-a6f1-4517-9f71-2871914536bf@6682.org
+URL:https://twitch.tv/CastleSuperBeast
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Hey I'm Pat. I stare at videogame. Videogame good. Also cat Elmo\, dog Caboose and lady Peach Saliva here sometime. Enjoy!
+DTEND:20250912T230000Z
+DTSTART:20250912T190000Z
+SUMMARY:PatStaresAt: Borderlands 4
+UID:e0972324-9a76-4007-ae01-8cf96397799d@e097.org
+URL:https://twitch.tv/PatStaresAt
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Formerly the Super Best Friendcast\, Castle Super Beast is a weekly gaming podcast featuring Woolie and Pat.
+DTEND:20260707T230000Z
+DTSTART:20260707T190000Z
+SUMMARY:CastleSuperBeast: Castle Super Beast Podcast
+UID:25577d29-5b35-47a0-855c-ea9f1089fe81@2557.org
+URL:https://twitch.tv/CastleSuperBeast
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Hey I'm Pat. I stare at videogame. Videogame good. Also cat Elmo\, dog Caboose and lady Peach Saliva here sometime. Enjoy!
+DTEND:20250525T040000Z
+DTSTART:20250524T230000Z
+SUMMARY:PatStaresAt: Pat And Paige RETURN To DeltaRune Chapter 2!
+UID:45479b03-ac2e-4710-883c-8fec1e672ccb@4547.org
+URL:https://twitch.tv/PatStaresAt
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Formerly the Super Best Friendcast\, Castle Super Beast is a weekly gaming podcast featuring Woolie and Pat.
+DTEND:20260825T230000Z
+DTSTART:20260825T190000Z
+SUMMARY:CastleSuperBeast: Castle Super Beast Podcast
+UID:3a1e0262-930a-4c1b-8054-78e305e4ee5c@3a1e.org
 URL:https://twitch.tv/CastleSuperBeast
 END:VEVENT
 END:VCALENDAR
